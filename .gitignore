@@ -56,3 +56,9 @@ target/
 
 # PyCharm
 .idea/
+.project
+.pydevproject
+output.txt
+output_10secs.txt
+output_new_calm.txt
+output_new_calm_max20.txt
