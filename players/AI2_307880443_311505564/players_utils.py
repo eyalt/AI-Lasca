@@ -1,6 +1,7 @@
 from __future__ import division, print_function
 from utils import  INFINITY
 import copy
+from gameconsts import *
 
 def is_calm_gen(player, max_deep):
     def is_calm(state, depth):
@@ -23,9 +24,34 @@ def is_calm_gen(player, max_deep):
         return True, moves   
     return is_calm
 
-def out_utility_gen(Player):
+def our_utility_gen(player):
+    POINT_PER_CAPTIVE = 1
+    POINT_PER_SOLDER_STACK = 1
+    POINT_PER_OFFICER_STACK = 2
+    
     def utility(state):
-        pass
+        if not state.get_possible_moves():
+            return INFINITY if state.curr_player != player.color else -INFINITY
+
+        u = 0
+        for square in state.board:
+            if square[:1] in MY_COLORS[player.color]:
+                # This tower belongs to me
+                for piece in square:
+                    if piece in OPPONENT_COLORS[player.color]:
+                        # This piece is captured by me
+                        u += POINT_PER_CAPTIVE
+                u += POINT_PER_SOLDER_STACK if square[0] in SOLDIER_COLOR[player.color] else POINT_PER_OFFICER_STACK
+
+            if square[:1] in OPPONENT_COLORS[player.color]:
+                # This tower belongs to the opponent
+                for piece in square:
+                    if piece in MY_COLORS[player.color]:
+                        # This piece is captured by the opponent
+                        u -= POINT_PER_CAPTIVE
+                u -= POINT_PER_SOLDER_STACK if square[0] in SOLDIER_COLOR[player.other_color] else POINT_PER_OFFICER_STACK
+
+        return u
     return utility
 
 # A class to handle the deepening until things are quiet
