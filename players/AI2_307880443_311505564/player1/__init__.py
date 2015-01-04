@@ -17,6 +17,8 @@ class Player(abstract.AbstractPlayer):
         
         self.other_color = WHITE_PLAYER if self.color == BLACK_PLAYER else BLACK_PLAYER
         self.utility = our_utility_gen(self)
+        
+        self.utility_time = 0
 
     def get_move(self, game_state, possible_moves):
 

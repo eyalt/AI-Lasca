@@ -64,7 +64,7 @@ class Player(abstract.AbstractPlayer):
         return (time.clock() - self.clock) >= self.time_per_move
 
     def __repr__(self):
-        return '{} {}'.format(abstract.AbstractPlayer.__repr__(self), 'Selective Deepening Wizard')
+        return '{} {}'.format(abstract.AbstractPlayer.__repr__(self), 'Ultra Mega')
 
 
 

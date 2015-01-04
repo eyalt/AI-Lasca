@@ -2,6 +2,7 @@ from __future__ import division, print_function
 from utils import  INFINITY
 import copy
 from gameconsts import *
+import time
 
 def is_calm_gen(player, max_deep):
     def is_calm(state, depth):
@@ -25,33 +26,48 @@ def is_calm_gen(player, max_deep):
     return is_calm
 
 def our_utility_gen(player):
-    POINT_PER_CAPTIVE = 1
-    POINT_PER_SOLDER_STACK = 1
-    POINT_PER_OFFICER_STACK = 2
-    
-    def utility(state):
-        if not state.get_possible_moves():
-            return INFINITY if state.curr_player != player.color else -INFINITY
+    POINT_FOR_CAPTURED = 10
+    POINT_FOR_OFFICER = 4
+    POINT_FOR_STRONG_STACK = 2
 
+    def utility(state):
+        player.utility_time -= time.clock()
+        possible_moves = state.get_possible_moves()
+    #         self.utility_time += time.clock()
+        if not possible_moves:
+            player.utility_time += time.clock()
+            return INFINITY if state.curr_player != player.color else -INFINITY
+    
         u = 0
-        for square in state.board:
+
+        for index, square in enumerate(state.board):
+
+            # Difference in captured
             if square[:1] in MY_COLORS[player.color]:
                 # This tower belongs to me
                 for piece in square:
                     if piece in OPPONENT_COLORS[player.color]:
                         # This piece is captured by me
-                        u += POINT_PER_CAPTIVE
-                u += POINT_PER_SOLDER_STACK if square[0] in SOLDIER_COLOR[player.color] else POINT_PER_OFFICER_STACK
-
+                        u += POINT_FOR_CAPTURED
+                if square[0] == OFFICER_COLOR[player.color]:
+                    u += POINT_FOR_OFFICER  # officer bonus
+                if len(square) > 1 and square[1] in MY_COLORS[player.color]:
+                    u += POINT_FOR_STRONG_STACK  # strong stack bonus
+            
             if square[:1] in OPPONENT_COLORS[player.color]:
                 # This tower belongs to the opponent
                 for piece in square:
                     if piece in MY_COLORS[player.color]:
                         # This piece is captured by the opponent
-                        u -= POINT_PER_CAPTIVE
-                u -= POINT_PER_SOLDER_STACK if square[0] in SOLDIER_COLOR[player.other_color] else POINT_PER_OFFICER_STACK
-
+                        u -= POINT_FOR_CAPTURED
+                if square[0] == OFFICER_COLOR[player.other_color]:
+                    u -= POINT_FOR_OFFICER  # officer bonus
+                if len(square) > 1 and square[1] in OPPONENT_COLORS[player.color]:
+                    u -= POINT_FOR_STRONG_STACK  # strong stack bonus
+        
+        player.utility_time += time.clock()
         return u
+    
     return utility
 
 # A class to handle the deepening until things are quiet
