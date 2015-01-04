@@ -53,8 +53,11 @@ class Player(abstract.AbstractPlayer):
             
             print('going to depth: {}, remaining time: {}, prev_alpha: {}, best_move: {}'.format(
                 current_depth, self.time_per_move - (time.clock() - self.clock), prev_alpha, best_move))
+            remaining_time = self.time_per_move - (time.clock() - self.clock)
             minimax = MiniMaxWithAlphaBetaPruning_SD(self.utility, self.color, self.no_more_time, self.is_calm)
             alpha, move = minimax.search(game_state, current_depth, -INFINITY, INFINITY, True)
+
+            new_remaining_time = self.time_per_move - (time.clock() - self.clock)
             
             if self.no_more_time():
                 print('no more time')
@@ -62,6 +65,11 @@ class Player(abstract.AbstractPlayer):
 
             prev_alpha = alpha
             best_move = move
+
+            if remaining_time > 2*new_remaining_time:
+                self.remaining_time+=new_remaining_time
+                break
+                
 
             if alpha == INFINITY:
                 print('the move: {} will guarantee victory.'.format(best_move))
