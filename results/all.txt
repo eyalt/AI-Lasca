@@ -1,0 +1,72 @@
+Running Game: simple_player vs player1 for 2.5 seconds.
+Game: simple_player vs player1 for 2.5 seconds. Winner: (white simple, 'white')
+Running Game: simple_player vs player2 for 2.5 seconds.
+Game: simple_player vs player2 for 2.5 seconds. Winner: (white simple, 'white')
+Running Game: simple_player vs player3 for 2.5 seconds.
+Game: simple_player vs player3 for 2.5 seconds. Winner: (white simple, 'white')
+Running Game: player1 vs simple_player for 2.5 seconds.
+Game: player1 vs simple_player for 2.5 seconds. Winner: ('tie', 'tie')
+Running Game: player1 vs player2 for 2.5 seconds.
+Game: player1 vs player2 for 2.5 seconds. Winner: ('tie', 'tie')
+Running Game: player1 vs player3 for 2.5 seconds.
+Game: player1 vs player3 for 2.5 seconds. Winner: (black Ultra Mega, 'black')
+Running Game: player2 vs simple_player for 2.5 seconds.
+Game: player2 vs simple_player for 2.5 seconds. Winner: (white Selective Deepening Wizard, 'white')
+Running Game: player2 vs player1 for 2.5 seconds.
+Game: player2 vs player1 for 2.5 seconds. Winner: (black Heuristic Monster, 'black')
+Running Game: player2 vs player3 for 2.5 seconds.
+Game: player2 vs player3 for 2.5 seconds. Winner: ('tie', 'tie')
+Running Game: player3 vs simple_player for 2.5 seconds.
+Game: player3 vs simple_player for 2.5 seconds. Winner: (black simple, 'black')
+Running Game: player3 vs player1 for 2.5 seconds.
+Game: player3 vs player1 for 2.5 seconds. Winner: (black Heuristic Monster, 'black')
+Running Game: player3 vs player2 for 2.5 seconds.
+Game: player3 vs player2 for 2.5 seconds. Winner: ('tie', 'tie')
+Running Game: simple_player vs player1 for 10 seconds.
+Game: simple_player vs player1 for 10 seconds. Winner: (white simple, 'white')
+Running Game: simple_player vs player2 for 10 seconds.
+Game: simple_player vs player2 for 10 seconds. Winner: (white simple, 'white')
+Running Game: simple_player vs player3 for 10 seconds.
+Game: simple_player vs player3 for 10 seconds. Winner: ('tie', 'tie')
+Running Game: player1 vs simple_player for 10 seconds.
+Game: player1 vs simple_player for 10 seconds. Winner: (white Heuristic Monster, 'white')
+Running Game: player1 vs player2 for 10 seconds.
+Game: player1 vs player2 for 10 seconds. Winner: ('tie', 'tie')
+Running Game: player1 vs player3 for 10 seconds.
+Game: player1 vs player3 for 10 seconds. Winner: (black Ultra Mega, 'black')
+Running Game: player2 vs simple_player for 10 seconds.
+Game: player2 vs simple_player for 10 seconds. Winner: (black simple, 'black')
+Running Game: player2 vs player1 for 10 seconds.
+Game: player2 vs player1 for 10 seconds. Winner: (white Selective Deepening Wizard, 'white')
+Running Game: player2 vs player3 for 10 seconds.
+Game: player2 vs player3 for 10 seconds. Winner: ('tie', 'tie')
+Running Game: player3 vs simple_player for 10 seconds.
+Game: player3 vs simple_player for 10 seconds. Winner: (white Ultra Mega, 'white')
+Running Game: player3 vs player1 for 10 seconds.
+Game: player3 vs player1 for 10 seconds. Winner: ('tie', 'tie')
+Running Game: player3 vs player2 for 10 seconds.
+Game: player3 vs player2 for 10 seconds. Winner: ('tie', 'tie')
+Running Game: simple_player vs player1 for 40 seconds.
+Game: simple_player vs player1 for 40 seconds. Winner: ('tie', 'tie')
+Running Game: simple_player vs player2 for 40 seconds.
+Game: simple_player vs player2 for 40 seconds. Winner: (white simple, 'white')
+Running Game: simple_player vs player3 for 40 seconds.
+Game: simple_player vs player3 for 40 seconds. Winner: ('tie', 'tie')
+Running Game: player1 vs simple_player for 40 seconds.
+Game: player1 vs simple_player for 40 seconds. Winner: ('tie', 'tie')
+Running Game: player1 vs player2 for 40 seconds.
+Game: player1 vs player2 for 40 seconds. Winner: (white Heuristic Monster, 'white')
+Running Game: player1 vs player3 for 40 seconds.
+Game: player1 vs player3 for 40 seconds. Winner: ('tie', 'tie')
+Running Game: player2 vs simple_player for 40 seconds.
+Game: player2 vs simple_player for 40 seconds. Winner: ('tie', 'tie')
+Running Game: player2 vs player1 for 40 seconds.
+Game: player2 vs player1 for 40 seconds. Winner: ('tie', 'tie')
+Running Game: player2 vs player3 for 40 seconds.
+Game: player2 vs player3 for 40 seconds. Winner: (white Selective Deepening Wizard, 'white')
+Running Game: player3 vs simple_player for 40 seconds.
+Game: player3 vs simple_player for 40 seconds. Winner: (white Ultra Mega, 'white')
+Running Game: player3 vs player1 for 40 seconds.
+Game: player3 vs player1 for 40 seconds. Winner: (white Ultra Mega, 'white')
+Running Game: player3 vs player2 for 40 seconds.
+Game: player3 vs player2 for 40 seconds. Winner: ('tie', 'tie')

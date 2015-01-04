@@ -1,0 +1,1417 @@
+ 0:b     1:b     2:b     3:b
+     4:b     5:b     6:b    
+ 7:b     8:b     9:b    10:b
+    11:     12:     13:     
+14:w    15:w    16:w    17:w
+    18:w    19:w    20:w    
+21:w    22:w    23:w    24:w
+****************************
+Possible moves: [(15, 11), (16, 12), (17, 13), (14, 11), (15, 12), (16, 13)]
+going to depth: 1, remaining time: 7.9199506067, prev_alpha: -inf, best_move: (15, 11)
+going to depth: 2, remaining time: 7.9190932802, prev_alpha: 0, best_move: (15, 11)
+going to depth: 3, remaining time: 7.91837290784, prev_alpha: -1, best_move: (15, 11)
+going to depth: 4, remaining time: 7.91637087566, prev_alpha: 1, best_move: (15, 11)
+going to depth: 5, remaining time: 7.9135512882, prev_alpha: 1, best_move: (15, 11)
+going to depth: 6, remaining time: 7.90680333001, prev_alpha: 2, best_move: (15, 11)
+going to depth: 7, remaining time: 7.89483379476, prev_alpha: 0, best_move: (17, 13)
+going to depth: 8, remaining time: 7.86820567625, prev_alpha: 0, best_move: (15, 11)
+going to depth: 9, remaining time: 7.8335998989, prev_alpha: 0, best_move: (15, 11)
+going to depth: 10, remaining time: 7.7438837115, prev_alpha: 1, best_move: (15, 11)
+going to depth: 11, remaining time: 7.58149266542, prev_alpha: 0, best_move: (16, 12)
+going to depth: 12, remaining time: 7.2150755525, prev_alpha: 0, best_move: (15, 11)
+going to depth: 13, remaining time: 6.74403638169, prev_alpha: 0, best_move: (16, 12)
+going to depth: 14, remaining time: 5.79688977469, prev_alpha: 1, best_move: (15, 11)
+going to depth: 15, remaining time: 3.83870408669, prev_alpha: -1, best_move: (15, 11)
+no more time
+Player white simple performed the move: (15, 11)
+ 0:b     1:b     2:b     3:b
+     4:b     5:b     6:b    
+ 7:b     8:b     9:b    10:b
+    11:w    12:     13:     
+14:w    15:     16:w    17:w
+    18:w    19:w    20:w    
+21:w    22:w    23:w    24:w
+****************************
+Possible moves: [(7, 11, 15)]
+Player black Selective Deepening Wizard performed the move: (7, 11, 15)
+ 0:b       1:b       2:b       3:b 
+      4:b       5:b       6:b      
+ 7:        8:b       9:b      10:b 
+     11:       12:       13:       
+14:w      15:bw     16:w      17:w 
+     18:w      19:w      20:w      
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(19, 15, 11), (18, 15, 12)]
+going to depth: 1, remaining time: 7.91999903779, prev_alpha: -inf, best_move: (19, 15, 11)
+going to depth: 2, remaining time: 7.9193466614, prev_alpha: 1, best_move: (19, 15, 11)
+going to depth: 3, remaining time: 7.91886876522, prev_alpha: 1, best_move: (19, 15, 11)
+going to depth: 4, remaining time: 7.91753899505, prev_alpha: 2, best_move: (18, 15, 12)
+going to depth: 5, remaining time: 7.91509210246, prev_alpha: -1, best_move: (19, 15, 11)
+going to depth: 6, remaining time: 7.91050526135, prev_alpha: 0, best_move: (19, 15, 11)
+going to depth: 7, remaining time: 7.90123311327, prev_alpha: 0, best_move: (19, 15, 11)
+going to depth: 8, remaining time: 7.88039299103, prev_alpha: 1, best_move: (19, 15, 11)
+going to depth: 9, remaining time: 7.83820245607, prev_alpha: -1, best_move: (19, 15, 11)
+going to depth: 10, remaining time: 7.76024860865, prev_alpha: 0, best_move: (19, 15, 11)
+going to depth: 11, remaining time: 7.63619317526, prev_alpha: -1, best_move: (19, 15, 11)
+going to depth: 12, remaining time: 7.39085378558, prev_alpha: 1, best_move: (18, 15, 12)
+going to depth: 13, remaining time: 6.96609036022, prev_alpha: -1, best_move: (19, 15, 11)
+going to depth: 14, remaining time: 6.13259836964, prev_alpha: 0, best_move: (19, 15, 11)
+going to depth: 15, remaining time: 4.41629806866, prev_alpha: 0, best_move: (18, 15, 12)
+going to depth: 16, remaining time: 1.12471725224, prev_alpha: 1, best_move: (18, 15, 12)
+no more time
+Player white simple performed the move: (18, 15, 12)
+ 0:b       1:b       2:b       3:b 
+      4:b       5:b       6:b      
+ 7:        8:b       9:b      10:b 
+     11:       12:wb     13:       
+14:w      15:w      16:w      17:w 
+     18:       19:w      20:w      
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(4, 7), (8, 11), (10, 13), (9, 13)]
+going to depth: 1, remaining time: 7.91999839632, prev_alpha: -inf, best_move: (4, 7)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 5, Deep leaves: 0
+going to depth: 2, remaining time: 7.91921066947, prev_alpha: -1, best_move: (4, 7)
+U time: 0.000, maximal selective depth: 1, Regular leaves: 9, Deep leaves: 1
+going to depth: 3, remaining time: 7.91863206228, prev_alpha: 1, best_move: (4, 7)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 13, Deep leaves: 0
+going to depth: 4, remaining time: 7.9178225254, prev_alpha: 1, best_move: (4, 7)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 24, Deep leaves: 0
+going to depth: 5, remaining time: 7.91626631582, prev_alpha: 1, best_move: (4, 7)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 50, Deep leaves: 2
+going to depth: 6, remaining time: 7.9125303865, prev_alpha: 0, best_move: (9, 13)
+U time: 0.002, maximal selective depth: 1, Regular leaves: 104, Deep leaves: 3
+going to depth: 7, remaining time: 7.90431730767, prev_alpha: 1, best_move: (9, 13)
+U time: 0.003, maximal selective depth: 1, Regular leaves: 198, Deep leaves: 4
+going to depth: 8, remaining time: 7.89031687403, prev_alpha: 1, best_move: (9, 13)
+U time: 0.007, maximal selective depth: 1, Regular leaves: 379, Deep leaves: 12
+going to depth: 9, remaining time: 7.86133295187, prev_alpha: 1, best_move: (9, 13)
+U time: 0.009, maximal selective depth: 3, Regular leaves: 544, Deep leaves: 16
+going to depth: 10, remaining time: 7.82145395903, prev_alpha: 1, best_move: (9, 13)
+U time: 0.019, maximal selective depth: 2, Regular leaves: 980, Deep leaves: 26
+going to depth: 11, remaining time: 7.74727132187, prev_alpha: 0, best_move: (4, 7)
+U time: 0.035, maximal selective depth: 4, Regular leaves: 2068, Deep leaves: 94
+going to depth: 12, remaining time: 7.59456039966, prev_alpha: 0, best_move: (4, 7)
+U time: 0.089, maximal selective depth: 3, Regular leaves: 4495, Deep leaves: 136
+going to depth: 13, remaining time: 7.25465594041, prev_alpha: 0, best_move: (4, 7)
+U time: 0.148, maximal selective depth: 3, Regular leaves: 8788, Deep leaves: 277
+going to depth: 14, remaining time: 6.60338512146, prev_alpha: 0, best_move: (4, 7)
+U time: 0.397, maximal selective depth: 5, Regular leaves: 19956, Deep leaves: 597
+going to depth: 15, remaining time: 5.08189647165, prev_alpha: 0, best_move: (4, 7)
+U time: 0.536, maximal selective depth: 4, Regular leaves: 32383, Deep leaves: 1096
+going to depth: 16, remaining time: 2.68461111439, prev_alpha: 0, best_move: (4, 7)
+U time: 0.699, maximal selective depth: 7, Regular leaves: 34973, Deep leaves: 750
+no more time
+Player black Selective Deepening Wizard performed the move: (4, 7)
+ 0:b       1:b       2:b       3:b 
+      4:        5:b       6:b      
+ 7:b       8:b       9:b      10:b 
+     11:       12:wb     13:       
+14:w      15:w      16:w      17:w 
+     18:       19:w      20:w      
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(12, 8, 4)]
+Player white simple performed the move: (12, 8, 4)
+ 0: b        1: b        2: b        3: b 
+       4:wbb       5: b        6: b       
+ 7: b        8:          9: b       10: b 
+      11:         12:         13:         
+14: w       15: w       16: w       17: w 
+      18:         19: w       20: w       
+21: w       22: w       23: w       24: w 
+******************************************
+Possible moves: [(0, 4, 8)]
+Player black Selective Deepening Wizard performed the move: (0, 4, 8)
+ 0:        1:b       2:b       3:b 
+      4:bb      5:b       6:b      
+ 7:b       8:bw      9:b      10:b 
+     11:       12:       13:       
+14:w      15:w      16:w      17:w 
+     18:       19:w      20:w      
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(15, 11), (16, 12), (17, 13), (22, 18), (14, 11), (15, 12), (16, 13), (21, 18)]
+going to depth: 1, remaining time: 7.91999583044, prev_alpha: -inf, best_move: (15, 11)
+going to depth: 2, remaining time: 7.91734527069, prev_alpha: -1, best_move: (15, 11)
+going to depth: 3, remaining time: 7.91203484986, prev_alpha: -1, best_move: (22, 18)
+going to depth: 4, remaining time: 7.90142010217, prev_alpha: 1, best_move: (16, 12)
+going to depth: 5, remaining time: 7.88588591047, prev_alpha: 1, best_move: (16, 12)
+going to depth: 6, remaining time: 7.86188173064, prev_alpha: 1, best_move: (16, 12)
+going to depth: 7, remaining time: 7.83894463845, prev_alpha: 0, best_move: (16, 12)
+going to depth: 8, remaining time: 7.787625645, prev_alpha: 1, best_move: (15, 12)
+going to depth: 9, remaining time: 7.7004131204, prev_alpha: 0, best_move: (16, 12)
+going to depth: 10, remaining time: 7.46071643373, prev_alpha: 0, best_move: (16, 12)
+going to depth: 11, remaining time: 7.01845238615, prev_alpha: 0, best_move: (16, 12)
+going to depth: 12, remaining time: 5.93714075678, prev_alpha: 1, best_move: (16, 12)
+going to depth: 13, remaining time: 4.13313335677, prev_alpha: 0, best_move: (16, 12)
+going to depth: 14, remaining time: 0.110551960464, prev_alpha: 1, best_move: (16, 12)
+no more time
+Player white simple performed the move: (16, 12)
+ 0:        1:b       2:b       3:b 
+      4:bb      5:b       6:b      
+ 7:b       8:bw      9:b      10:b 
+     11:       12:w      13:       
+14:w      15:w      16:       17:w 
+     18:       19:w      20:w      
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(8, 12, 16)]
+Player black Selective Deepening Wizard performed the move: (8, 12, 16)
+ 0:          1: b        2: b        3: b 
+       4:bb        5: b        6: b       
+ 7: b        8:          9: b       10: b 
+      11:         12:         13:         
+14: w       15: w       16:bww      17: w 
+      18:         19: w       20: w       
+21: w       22: w       23: w       24: w 
+******************************************
+Possible moves: [(20, 16, 12), (19, 16, 13)]
+going to depth: 1, remaining time: 7.91999486823, prev_alpha: -inf, best_move: (20, 16, 12)
+going to depth: 2, remaining time: 7.91884855887, prev_alpha: 1, best_move: (20, 16, 12)
+going to depth: 3, remaining time: 7.91664991571, prev_alpha: 1, best_move: (20, 16, 12)
+going to depth: 4, remaining time: 7.90833484293, prev_alpha: 1, best_move: (20, 16, 12)
+going to depth: 5, remaining time: 7.89354155067, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 6, remaining time: 7.87696304355, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 7, remaining time: 7.85242964983, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 8, remaining time: 7.8152044241, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 9, remaining time: 7.73554105545, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 10, remaining time: 7.47351442926, prev_alpha: 1, best_move: (19, 16, 13)
+going to depth: 11, remaining time: 7.08939751725, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 12, remaining time: 6.20771659281, prev_alpha: 1, best_move: (19, 16, 13)
+going to depth: 13, remaining time: 4.80586363858, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 14, remaining time: 0.974791919513, prev_alpha: 1, best_move: (20, 16, 12)
+no more time
+Player white simple performed the move: (20, 16, 12)
+ 0:        1:b       2:b       3:b 
+      4:bb      5:b       6:b      
+ 7:b       8:        9:b      10:b 
+     11:       12:wb     13:       
+14:w      15:w      16:ww     17:w 
+     18:       19:w      20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(5, 8), (10, 13), (4, 8), (7, 11), (9, 13)]
+going to depth: 1, remaining time: 7.91999807559, prev_alpha: -inf, best_move: (5, 8)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 6, Deep leaves: 0
+going to depth: 2, remaining time: 7.91903875513, prev_alpha: -1, best_move: (5, 8)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 18, Deep leaves: 0
+going to depth: 3, remaining time: 7.91772181439, prev_alpha: -1, best_move: (5, 8)
+U time: 0.001, maximal selective depth: 0, Regular leaves: 50, Deep leaves: 0
+going to depth: 4, remaining time: 7.91418826928, prev_alpha: 0, best_move: (9, 13)
+U time: 0.002, maximal selective depth: 1, Regular leaves: 110, Deep leaves: 1
+going to depth: 5, remaining time: 7.90551942504, prev_alpha: 0, best_move: (9, 13)
+U time: 0.005, maximal selective depth: 1, Regular leaves: 245, Deep leaves: 3
+going to depth: 6, remaining time: 7.88663771492, prev_alpha: 0, best_move: (5, 8)
+U time: 0.010, maximal selective depth: 1, Regular leaves: 500, Deep leaves: 12
+going to depth: 7, remaining time: 7.84735946003, prev_alpha: 0, best_move: (4, 8)
+U time: 0.020, maximal selective depth: 1, Regular leaves: 1082, Deep leaves: 11
+going to depth: 8, remaining time: 7.76521199346, prev_alpha: 0, best_move: (5, 8)
+U time: 0.052, maximal selective depth: 2, Regular leaves: 2584, Deep leaves: 37
+going to depth: 9, remaining time: 7.56624072112, prev_alpha: 0, best_move: (9, 13)
+U time: 0.099, maximal selective depth: 2, Regular leaves: 5200, Deep leaves: 117
+going to depth: 10, remaining time: 7.16435024081, prev_alpha: 0, best_move: (5, 8)
+U time: 0.187, maximal selective depth: 3, Regular leaves: 9626, Deep leaves: 186
+going to depth: 11, remaining time: 6.42301074593, prev_alpha: 0, best_move: (5, 8)
+U time: 0.350, maximal selective depth: 4, Regular leaves: 19349, Deep leaves: 444
+going to depth: 12, remaining time: 4.96033539973, prev_alpha: 0, best_move: (5, 8)
+U time: 0.924, maximal selective depth: 4, Regular leaves: 47964, Deep leaves: 1029
+going to depth: 13, remaining time: 1.28311481824, prev_alpha: 0, best_move: (9, 13)
+U time: 0.295, maximal selective depth: 3, Regular leaves: 16596, Deep leaves: 467
+no more time
+Player black Selective Deepening Wizard performed the move: (9, 13)
+ 0:        1:b       2:b       3:b 
+      4:bb      5:b       6:b      
+ 7:b       8:        9:       10:b 
+     11:       12:wb     13:b      
+14:w      15:w      16:ww     17:w 
+     18:       19:w      20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(17, 13, 9)]
+Player white simple performed the move: (17, 13, 9)
+ 0:        1:b       2:b       3:b 
+      4:bb      5:b       6:b      
+ 7:b       8:        9:wb     10:b 
+     11:       12:wb     13:       
+14:w      15:w      16:ww     17:  
+     18:       19:w      20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(5, 9, 13)]
+Player black Selective Deepening Wizard performed the move: (5, 9, 13)
+ 0:        1:b       2:b       3:b 
+      4:bb      5:        6:b      
+ 7:b       8:        9:b      10:b 
+     11:       12:wb     13:bw     
+14:w      15:w      16:ww     17:  
+     18:       19:w      20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(12, 8), (15, 11), (22, 18), (24, 20), (14, 11), (21, 18), (23, 20)]
+going to depth: 1, remaining time: 7.91999454749, prev_alpha: -inf, best_move: (12, 8)
+going to depth: 2, remaining time: 7.91731864963, prev_alpha: 0, best_move: (12, 8)
+going to depth: 3, remaining time: 7.91167562588, prev_alpha: 0, best_move: (22, 18)
+going to depth: 4, remaining time: 7.89750167424, prev_alpha: 0, best_move: (15, 11)
+going to depth: 5, remaining time: 7.88209802196, prev_alpha: 0, best_move: (15, 11)
+going to depth: 6, remaining time: 7.85265608923, prev_alpha: 0, best_move: (15, 11)
+going to depth: 7, remaining time: 7.8052276197, prev_alpha: 0, best_move: (24, 20)
+going to depth: 8, remaining time: 7.72980533909, prev_alpha: 0, best_move: (15, 11)
+going to depth: 9, remaining time: 7.61624566045, prev_alpha: 0, best_move: (15, 11)
+going to depth: 10, remaining time: 7.35835524172, prev_alpha: 1, best_move: (15, 11)
+going to depth: 11, remaining time: 6.75257244136, prev_alpha: 0, best_move: (22, 18)
+going to depth: 12, remaining time: 5.01307942185, prev_alpha: 0, best_move: (22, 18)
+going to depth: 13, remaining time: 2.31410558362, prev_alpha: 0, best_move: (22, 18)
+no more time
+Player white simple performed the move: (22, 18)
+ 0:        1:b       2:b       3:b 
+      4:bb      5:        6:b      
+ 7:b       8:        9:b      10:b 
+     11:       12:wb     13:bw     
+14:w      15:w      16:ww     17:  
+     18:w      19:w      20:       
+21:w      22:       23:w      24:w 
+***********************************
+Possible moves: [(2, 5), (1, 5), (4, 8), (7, 11), (13, 17)]
+going to depth: 1, remaining time: 7.91999839632, prev_alpha: -inf, best_move: (2, 5)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 6, Deep leaves: 0
+going to depth: 2, remaining time: 7.91904549058, prev_alpha: 0, best_move: (2, 5)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 15, Deep leaves: 0
+going to depth: 3, remaining time: 7.91794857452, prev_alpha: 0, best_move: (2, 5)
+U time: 0.001, maximal selective depth: 0, Regular leaves: 60, Deep leaves: 0
+going to depth: 4, remaining time: 7.91354904305, prev_alpha: 0, best_move: (2, 5)
+U time: 0.002, maximal selective depth: 0, Regular leaves: 85, Deep leaves: 0
+going to depth: 5, remaining time: 7.90746853583, prev_alpha: 0, best_move: (2, 5)
+U time: 0.004, maximal selective depth: 1, Regular leaves: 191, Deep leaves: 1
+going to depth: 6, remaining time: 7.89233462226, prev_alpha: 0, best_move: (2, 5)
+U time: 0.006, maximal selective depth: 1, Regular leaves: 343, Deep leaves: 11
+going to depth: 7, remaining time: 7.86580047931, prev_alpha: 0, best_move: (2, 5)
+U time: 0.017, maximal selective depth: 1, Regular leaves: 890, Deep leaves: 10
+going to depth: 8, remaining time: 7.80150836863, prev_alpha: 0, best_move: (2, 5)
+U time: 0.025, maximal selective depth: 3, Regular leaves: 1413, Deep leaves: 51
+going to depth: 9, remaining time: 7.69191266239, prev_alpha: 0, best_move: (2, 5)
+U time: 0.063, maximal selective depth: 3, Regular leaves: 3073, Deep leaves: 77
+going to depth: 10, remaining time: 7.45493485217, prev_alpha: 0, best_move: (2, 5)
+U time: 0.101, maximal selective depth: 3, Regular leaves: 6001, Deep leaves: 159
+going to depth: 11, remaining time: 7.00140785007, prev_alpha: 0, best_move: (2, 5)
+U time: 0.239, maximal selective depth: 3, Regular leaves: 11865, Deep leaves: 245
+going to depth: 12, remaining time: 6.0905922577, prev_alpha: 0, best_move: (2, 5)
+U time: 0.385, maximal selective depth: 5, Regular leaves: 23319, Deep leaves: 721
+going to depth: 13, remaining time: 4.3324927193, prev_alpha: 0, best_move: (2, 5)
+U time: 0.983, maximal selective depth: 4, Regular leaves: 49840, Deep leaves: 945
+going to depth: 14, remaining time: 0.506540583328, prev_alpha: 1, best_move: (2, 5)
+U time: 0.109, maximal selective depth: 4, Regular leaves: 6599, Deep leaves: 343
+no more time
+Player black Selective Deepening Wizard performed the move: (2, 5)
+ 0:        1:b       2:        3:b 
+      4:bb      5:b       6:b      
+ 7:b       8:        9:b      10:b 
+     11:       12:wb     13:bw     
+14:w      15:w      16:ww     17:  
+     18:w      19:w      20:       
+21:w      22:       23:w      24:w 
+***********************************
+Possible moves: [(12, 8), (15, 11), (24, 20), (14, 11), (23, 20)]
+going to depth: 1, remaining time: 7.91999839632, prev_alpha: -inf, best_move: (12, 8)
+going to depth: 2, remaining time: 7.91948393627, prev_alpha: 0, best_move: (12, 8)
+going to depth: 3, remaining time: 7.91851884258, prev_alpha: 0, best_move: (24, 20)
+going to depth: 4, remaining time: 7.91610145768, prev_alpha: 0, best_move: (15, 11)
+going to depth: 5, remaining time: 7.91245533435, prev_alpha: 0, best_move: (15, 11)
+going to depth: 6, remaining time: 7.90448441096, prev_alpha: 0, best_move: (15, 11)
+going to depth: 7, remaining time: 7.89069694583, prev_alpha: 0, best_move: (15, 11)
+going to depth: 8, remaining time: 7.85900280708, prev_alpha: 0, best_move: (15, 11)
+going to depth: 9, remaining time: 7.82109409359, prev_alpha: 0, best_move: (15, 11)
+going to depth: 10, remaining time: 7.65001335543, prev_alpha: 0, best_move: (15, 11)
+going to depth: 11, remaining time: 7.34232006086, prev_alpha: 0, best_move: (24, 20)
+going to depth: 12, remaining time: 6.69894158505, prev_alpha: 0, best_move: (15, 11)
+going to depth: 13, remaining time: 5.33950368076, prev_alpha: -1, best_move: (15, 11)
+going to depth: 14, remaining time: 2.75743960547, prev_alpha: 0, best_move: (15, 11)
+no more time
+Player white simple performed the move: (15, 11)
+ 0:        1:b       2:        3:b 
+      4:bb      5:b       6:b      
+ 7:b       8:        9:b      10:b 
+     11:w      12:wb     13:bw     
+14:w      15:       16:ww     17:  
+     18:w      19:w      20:       
+21:w      22:       23:w      24:w 
+***********************************
+Possible moves: [(9, 12, 15), (7, 11, 15)]
+going to depth: 1, remaining time: 7.91999839632, prev_alpha: -inf, best_move: (9, 12, 15)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 3, Deep leaves: 0
+going to depth: 2, remaining time: 7.91935018949, prev_alpha: 2, best_move: (9, 12, 15)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 6, Deep leaves: 0
+going to depth: 3, remaining time: 7.91894285516, prev_alpha: 0, best_move: (9, 12, 15)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 14, Deep leaves: 0
+going to depth: 4, remaining time: 7.91796589425, prev_alpha: 0, best_move: (9, 12, 15)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 29, Deep leaves: 2
+going to depth: 5, remaining time: 7.91572844207, prev_alpha: 0, best_move: (7, 11, 15)
+U time: 0.002, maximal selective depth: 0, Regular leaves: 75, Deep leaves: 0
+going to depth: 6, remaining time: 7.90991735283, prev_alpha: 0, best_move: (9, 12, 15)
+U time: 0.002, maximal selective depth: 1, Regular leaves: 113, Deep leaves: 2
+going to depth: 7, remaining time: 7.90101661667, prev_alpha: 0, best_move: (7, 11, 15)
+U time: 0.006, maximal selective depth: 2, Regular leaves: 259, Deep leaves: 20
+going to depth: 8, remaining time: 7.8792739442, prev_alpha: 0, best_move: (7, 11, 15)
+U time: 0.011, maximal selective depth: 1, Regular leaves: 574, Deep leaves: 14
+going to depth: 9, remaining time: 7.83433983614, prev_alpha: 0, best_move: (7, 11, 15)
+U time: 0.028, maximal selective depth: 3, Regular leaves: 1384, Deep leaves: 73
+going to depth: 10, remaining time: 7.72461262826, prev_alpha: 0, best_move: (7, 11, 15)
+U time: 0.043, maximal selective depth: 3, Regular leaves: 2485, Deep leaves: 106
+going to depth: 11, remaining time: 7.53479483179, prev_alpha: 0, best_move: (7, 11, 15)
+U time: 0.099, maximal selective depth: 3, Regular leaves: 5156, Deep leaves: 201
+going to depth: 12, remaining time: 7.13798608777, prev_alpha: 1, best_move: (7, 11, 15)
+U time: 0.148, maximal selective depth: 3, Regular leaves: 8520, Deep leaves: 216
+going to depth: 13, remaining time: 6.48746033782, prev_alpha: 0, best_move: (7, 11, 15)
+U time: 0.335, maximal selective depth: 3, Regular leaves: 17407, Deep leaves: 816
+going to depth: 14, remaining time: 5.13247360345, prev_alpha: 0, best_move: (7, 11, 15)
+U time: 0.549, maximal selective depth: 4, Regular leaves: 31661, Deep leaves: 656
+going to depth: 15, remaining time: 2.7343283538, prev_alpha: -1, best_move: (7, 11, 15)
+U time: 0.636, maximal selective depth: 3, Regular leaves: 36271, Deep leaves: 1112
+no more time
+Player black Selective Deepening Wizard performed the move: (7, 11, 15)
+ 0:        1:b       2:        3:b 
+      4:bb      5:b       6:b      
+ 7:        8:        9:b      10:b 
+     11:       12:wb     13:bw     
+14:w      15:bw     16:ww     17:  
+     18:w      19:w      20:       
+21:w      22:       23:w      24:w 
+***********************************
+Possible moves: [(19, 15, 11)]
+Player white simple performed the move: (19, 15, 11)
+ 0:        1:b       2:        3:b 
+      4:bb      5:b       6:b      
+ 7:        8:        9:b      10:b 
+     11:wb     12:wb     13:bw     
+14:w      15:w      16:ww     17:  
+     18:w      19:       20:       
+21:w      22:       23:w      24:w 
+***********************************
+Possible moves: [(13, 16, 19)]
+Player black Selective Deepening Wizard performed the move: (13, 16, 19)
+ 0:          1: b        2:          3: b 
+       4:bb        5: b        6: b       
+ 7:          8:          9: b       10: b 
+      11:wb       12:wb       13:         
+14: w       15: w       16: w       17:   
+      18: w       19:bww      20:         
+21: w       22:         23: w       24: w 
+******************************************
+Possible moves: [(11, 7), (12, 8), (24, 20), (11, 8), (16, 13), (23, 20)]
+going to depth: 1, remaining time: 7.91994290905, prev_alpha: -inf, best_move: (11, 7)
+going to depth: 2, remaining time: 7.91775645384, prev_alpha: 0, best_move: (11, 7)
+going to depth: 3, remaining time: 7.91336590297, prev_alpha: 0, best_move: (11, 7)
+going to depth: 4, remaining time: 7.90302827093, prev_alpha: 0, best_move: (11, 7)
+going to depth: 5, remaining time: 7.88242485163, prev_alpha: 0, best_move: (11, 7)
+going to depth: 6, remaining time: 7.84548123183, prev_alpha: 0, best_move: (11, 7)
+going to depth: 7, remaining time: 7.80346325267, prev_alpha: -1, best_move: (11, 7)
+going to depth: 8, remaining time: 7.72749475918, prev_alpha: 0, best_move: (11, 7)
+going to depth: 9, remaining time: 7.49110870631, prev_alpha: -1, best_move: (23, 20)
+going to depth: 10, remaining time: 7.23067389134, prev_alpha: 0, best_move: (11, 7)
+going to depth: 11, remaining time: 6.68081392455, prev_alpha: 0, best_move: (11, 7)
+going to depth: 12, remaining time: 5.81375437804, prev_alpha: 1, best_move: (11, 7)
+going to depth: 13, remaining time: 3.85289632026, prev_alpha: 1, best_move: (11, 8)
+no more time
+Player white simple performed the move: (11, 8)
+ 0:          1: b        2:          3: b 
+       4:bb        5: b        6: b       
+ 7:          8:wb        9: b       10: b 
+      11:         12:wb       13:         
+14: w       15: w       16: w       17:   
+      18: w       19:bww      20:         
+21: w       22:         23: w       24: w 
+******************************************
+Possible moves: [(5, 8, 11)]
+Player black Selective Deepening Wizard performed the move: (5, 8, 11)
+ 0:          1: b        2:          3: b 
+       4:bb        5:          6: b       
+ 7:          8: b        9: b       10: b 
+      11:bw       12:wb       13:         
+14: w       15: w       16: w       17:   
+      18: w       19:bww      20:         
+21: w       22:         23: w       24: w 
+******************************************
+Possible moves: [(15, 11, 7)]
+Player white simple performed the move: (15, 11, 7)
+ 0:          1: b        2:          3: b 
+       4:bb        5:          6: b       
+ 7:wb        8: b        9: b       10: b 
+      11: w       12:wb       13:         
+14: w       15:         16: w       17:   
+      18: w       19:bww      20:         
+21: w       22:         23: w       24: w 
+******************************************
+Possible moves: [(9, 12, 15)]
+Player black Selective Deepening Wizard performed the move: (9, 12, 15)
+ 0:          1: b        2:          3: b 
+       4:bb        5:          6: b       
+ 7:wb        8: b        9:         10: b 
+      11: w       12: b       13:         
+14: w       15:bw       16: w       17:   
+      18: w       19:bww      20:         
+21: w       22:         23: w       24: w 
+******************************************
+Possible moves: [(11, 8, 5)]
+Player white simple performed the move: (11, 8, 5)
+ 0:          1: b        2:          3: b 
+       4:bb        5:wb        6: b       
+ 7:wb        8:          9:         10: b 
+      11:         12: b       13:         
+14: w       15:bw       16: w       17:   
+      18: w       19:bww      20:         
+21: w       22:         23: w       24: w 
+******************************************
+Possible moves: [(1, 5, 9), (12, 16, 20)]
+going to depth: 1, remaining time: 7.91999390602, prev_alpha: -inf, best_move: (1, 5, 9)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 3, Deep leaves: 0
+going to depth: 2, remaining time: 7.91862532683, prev_alpha: 3, best_move: (1, 5, 9)
+U time: 0.001, maximal selective depth: 0, Regular leaves: 7, Deep leaves: 0
+going to depth: 3, remaining time: 7.91631186029, prev_alpha: 1, best_move: (1, 5, 9)
+U time: 0.002, maximal selective depth: 0, Regular leaves: 20, Deep leaves: 0
+going to depth: 4, remaining time: 7.90939583659, prev_alpha: 2, best_move: (12, 16, 20)
+U time: 0.004, maximal selective depth: 0, Regular leaves: 43, Deep leaves: 0
+going to depth: 5, remaining time: 7.89342127478, prev_alpha: 0, best_move: (12, 16, 20)
+U time: 0.007, maximal selective depth: 0, Regular leaves: 83, Deep leaves: 0
+going to depth: 6, remaining time: 7.8702163683, prev_alpha: 0, best_move: (1, 5, 9)
+U time: 0.005, maximal selective depth: 1, Regular leaves: 152, Deep leaves: 1
+going to depth: 7, remaining time: 7.85005396057, prev_alpha: -1, best_move: (1, 5, 9)
+U time: 0.012, maximal selective depth: 1, Regular leaves: 481, Deep leaves: 23
+going to depth: 8, remaining time: 7.80686689982, prev_alpha: -1, best_move: (1, 5, 9)
+U time: 0.024, maximal selective depth: 1, Regular leaves: 1247, Deep leaves: 27
+going to depth: 9, remaining time: 7.70944567892, prev_alpha: -1, best_move: (12, 16, 20)
+U time: 0.063, maximal selective depth: 3, Regular leaves: 3023, Deep leaves: 218
+going to depth: 10, remaining time: 7.46154232813, prev_alpha: -1, best_move: (12, 16, 20)
+U time: 0.113, maximal selective depth: 2, Regular leaves: 5914, Deep leaves: 192
+going to depth: 11, remaining time: 6.99401264725, prev_alpha: -1, best_move: (12, 16, 20)
+U time: 0.243, maximal selective depth: 5, Regular leaves: 12024, Deep leaves: 934
+going to depth: 12, remaining time: 6.00887136959, prev_alpha: -1, best_move: (12, 16, 20)
+U time: 0.889, maximal selective depth: 4, Regular leaves: 42711, Deep leaves: 1758
+going to depth: 13, remaining time: 2.56078853511, prev_alpha: -2, best_move: (1, 5, 9)
+U time: 0.594, maximal selective depth: 4, Regular leaves: 32619, Deep leaves: 1501
+no more time
+Player black Selective Deepening Wizard performed the move: (1, 5, 9)
+ 0:          1:          2:          3: b 
+       4:bb        5: b        6: b       
+ 7:wb        8:          9:bw       10: b 
+      11:         12: b       13:         
+14: w       15:bw       16: w       17:   
+      18: w       19:bww      20:         
+21: w       22:         23: w       24: w 
+******************************************
+Possible moves: [(16, 12, 8, 4, 0), (16, 12, 8, 5, 2), (7, 4, 1)]
+going to depth: 1, remaining time: 7.91999839632, prev_alpha: -inf, best_move: (16, 12, 8, 4, 0)
+going to depth: 2, remaining time: 7.9192748166, prev_alpha: -1, best_move: (16, 12, 8, 4, 0)
+going to depth: 3, remaining time: 7.91858972517, prev_alpha: -1, best_move: (16, 12, 8, 4, 0)
+going to depth: 4, remaining time: 7.91672913743, prev_alpha: 1, best_move: (16, 12, 8, 4, 0)
+going to depth: 5, remaining time: 7.91303490374, prev_alpha: 0, best_move: (16, 12, 8, 4, 0)
+going to depth: 6, remaining time: 7.90476537543, prev_alpha: 1, best_move: (7, 4, 1)
+going to depth: 7, remaining time: 7.88335530587, prev_alpha: 1, best_move: (7, 4, 1)
+going to depth: 8, remaining time: 7.81341022865, prev_alpha: 2, best_move: (7, 4, 1)
+going to depth: 9, remaining time: 7.68491036079, prev_alpha: 1, best_move: (16, 12, 8, 4, 0)
+going to depth: 10, remaining time: 7.42812712167, prev_alpha: 2, best_move: (7, 4, 1)
+going to depth: 11, remaining time: 6.95560775565, prev_alpha: 1, best_move: (16, 12, 8, 4, 0)
+going to depth: 12, remaining time: 4.6942312607, prev_alpha: 2, best_move: (7, 4, 1)
+going to depth: 13, remaining time: 1.43999498369, prev_alpha: 2, best_move: (7, 4, 1)
+no more time
+Player white simple performed the move: (7, 4, 1)
+ 0:          1:Wbb       2:          3: b 
+       4: b        5: b        6: b       
+ 7:          8:          9:bw       10: b 
+      11:         12: b       13:         
+14: w       15:bw       16: w       17:   
+      18: w       19:bww      20:         
+21: w       22:         23: w       24: w 
+******************************************
+Possible moves: [(12, 16, 20)]
+Player black Selective Deepening Wizard performed the move: (12, 16, 20)
+ 0:          1:Wbb       2:          3: b 
+       4: b        5: b        6: b       
+ 7:          8:          9:bw       10: b 
+      11:         12:         13:         
+14: w       15:bw       16:         17:   
+      18: w       19:bww      20:bw       
+21: w       22:         23: w       24: w 
+******************************************
+Possible moves: [(24, 20, 16), (18, 15, 12), (23, 20, 17), (1, 4, 7)]
+going to depth: 1, remaining time: 7.9199955097, prev_alpha: -inf, best_move: (24, 20, 16)
+going to depth: 2, remaining time: 7.91817790054, prev_alpha: -1, best_move: (24, 20, 16)
+going to depth: 3, remaining time: 7.91435184449, prev_alpha: -1, best_move: (24, 20, 16)
+going to depth: 4, remaining time: 7.90624557064, prev_alpha: 1, best_move: (24, 20, 16)
+going to depth: 5, remaining time: 7.88898614165, prev_alpha: 1, best_move: (24, 20, 16)
+going to depth: 6, remaining time: 7.85888221046, prev_alpha: 2, best_move: (1, 4, 7)
+going to depth: 7, remaining time: 7.79883503665, prev_alpha: 1, best_move: (18, 15, 12)
+going to depth: 8, remaining time: 7.68089603288, prev_alpha: 2, best_move: (1, 4, 7)
+going to depth: 9, remaining time: 7.45663667574, prev_alpha: 1, best_move: (18, 15, 12)
+going to depth: 10, remaining time: 6.89070496422, prev_alpha: 2, best_move: (18, 15, 12)
+going to depth: 11, remaining time: 5.90363510285, prev_alpha: 2, best_move: (1, 4, 7)
+going to depth: 12, remaining time: 3.66765510137, prev_alpha: 3, best_move: (1, 4, 7)
+going to depth: 13, remaining time: 0.1135681589, prev_alpha: 2, best_move: (1, 4, 7)
+no more time
+Player white simple performed the move: (1, 4, 7)
+ 0:            1:            2:            3: b  
+        4:            5: b          6: b         
+ 7:Wbbb        8:            9: bw        10: b  
+       11:           12:           13:           
+14: w         15: bw        16:           17:    
+       18: w         19:bww        20: bw        
+21: w         22:           23: w         24: w  
+*************************************************
+Possible moves: [(5, 8), (9, 12), (10, 13), (19, 22), (9, 13)]
+going to depth: 1, remaining time: 7.91998781204, prev_alpha: -inf, best_move: (5, 8)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 6, Deep leaves: 0
+going to depth: 2, remaining time: 7.91944801388, prev_alpha: 2, best_move: (5, 8)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 15, Deep leaves: 0
+going to depth: 3, remaining time: 7.91816346744, prev_alpha: 0, best_move: (19, 22)
+U time: 0.001, maximal selective depth: 0, Regular leaves: 47, Deep leaves: 0
+going to depth: 4, remaining time: 7.91433612844, prev_alpha: 0, best_move: (19, 22)
+U time: 0.002, maximal selective depth: 1, Regular leaves: 111, Deep leaves: 1
+going to depth: 5, remaining time: 7.90561596648, prev_alpha: -2, best_move: (19, 22)
+U time: 0.006, maximal selective depth: 1, Regular leaves: 284, Deep leaves: 9
+going to depth: 6, remaining time: 7.88194887986, prev_alpha: -2, best_move: (9, 12)
+U time: 0.011, maximal selective depth: 2, Regular leaves: 567, Deep leaves: 23
+going to depth: 7, remaining time: 7.83626553323, prev_alpha: -2, best_move: (19, 22)
+U time: 0.023, maximal selective depth: 3, Regular leaves: 1187, Deep leaves: 75
+going to depth: 8, remaining time: 7.74146760954, prev_alpha: -2, best_move: (10, 13)
+U time: 0.053, maximal selective depth: 3, Regular leaves: 2495, Deep leaves: 90
+going to depth: 9, remaining time: 7.53611337622, prev_alpha: -2, best_move: (19, 22)
+U time: 0.084, maximal selective depth: 3, Regular leaves: 4453, Deep leaves: 428
+going to depth: 10, remaining time: 7.16564761668, prev_alpha: -2, best_move: (19, 22)
+U time: 0.263, maximal selective depth: 3, Regular leaves: 12286, Deep leaves: 277
+going to depth: 11, remaining time: 6.16617811351, prev_alpha: -2, best_move: (19, 22)
+U time: 0.368, maximal selective depth: 3, Regular leaves: 21185, Deep leaves: 1780
+going to depth: 12, remaining time: 4.47768655912, prev_alpha: -2, best_move: (19, 22)
+U time: 1.236, maximal selective depth: 4, Regular leaves: 54835, Deep leaves: 1113
+no more time
+Player black Selective Deepening Wizard performed the move: (19, 22)
+ 0:            1:            2:            3: b  
+        4:            5: b          6: b         
+ 7:Wbbb        8:            9: bw        10: b  
+       11:           12:           13:           
+14: w         15: bw        16:           17:    
+       18: w         19:           20: bw        
+21: w         22:Bww        23: w         24: w  
+*************************************************
+Possible moves: [(24, 20, 16), (18, 15, 12), (23, 20, 17)]
+going to depth: 1, remaining time: 7.91999807559, prev_alpha: -inf, best_move: (24, 20, 16)
+going to depth: 2, remaining time: 7.91932998314, prev_alpha: 0, best_move: (24, 20, 16)
+going to depth: 3, remaining time: 7.9186708713, prev_alpha: 0, best_move: (24, 20, 16)
+going to depth: 4, remaining time: 7.91704602429, prev_alpha: 2, best_move: (24, 20, 16)
+going to depth: 5, remaining time: 7.91128015878, prev_alpha: 1, best_move: (18, 15, 12)
+going to depth: 6, remaining time: 7.89705521016, prev_alpha: 2, best_move: (18, 15, 12)
+going to depth: 7, remaining time: 7.8713729412, prev_alpha: 1, best_move: (18, 15, 12)
+going to depth: 8, remaining time: 7.79710659202, prev_alpha: 2, best_move: (18, 15, 12)
+going to depth: 9, remaining time: 7.69517165774, prev_alpha: 2, best_move: (18, 15, 12)
+going to depth: 10, remaining time: 7.3412815187, prev_alpha: 3, best_move: (18, 15, 12)
+going to depth: 11, remaining time: 6.74659360735, prev_alpha: 2, best_move: (18, 15, 12)
+going to depth: 12, remaining time: 5.01330906861, prev_alpha: 3, best_move: (18, 15, 12)
+going to depth: 13, remaining time: 2.90251381088, prev_alpha: 3, best_move: (18, 15, 12)
+no more time
+Player white simple performed the move: (18, 15, 12)
+ 0:            1:            2:            3: b  
+        4:            5: b          6: b         
+ 7:Wbbb        8:            9: bw        10: b  
+       11:           12: wb        13:           
+14: w         15: w         16:           17:    
+       18:           19:           20: bw        
+21: w         22:Bww        23: w         24: w  
+*************************************************
+Possible moves: [(5, 8), (10, 13), (9, 13), (22, 18), (22, 19)]
+going to depth: 1, remaining time: 7.91999807559, prev_alpha: -inf, best_move: (5, 8)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 6, Deep leaves: 0
+going to depth: 2, remaining time: 7.91909360094, prev_alpha: 0, best_move: (5, 8)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 13, Deep leaves: 0
+going to depth: 3, remaining time: 7.91812305474, prev_alpha: -2, best_move: (5, 8)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 40, Deep leaves: 2
+going to depth: 4, remaining time: 7.91484417377, prev_alpha: -2, best_move: (5, 8)
+U time: 0.002, maximal selective depth: 2, Regular leaves: 97, Deep leaves: 4
+going to depth: 5, remaining time: 7.90798684471, prev_alpha: -2, best_move: (22, 18)
+U time: 0.004, maximal selective depth: 3, Regular leaves: 193, Deep leaves: 25
+going to depth: 6, remaining time: 7.89195262606, prev_alpha: -2, best_move: (22, 18)
+U time: 0.012, maximal selective depth: 2, Regular leaves: 513, Deep leaves: 25
+going to depth: 7, remaining time: 7.84933583336, prev_alpha: -2, best_move: (22, 18)
+U time: 0.016, maximal selective depth: 2, Regular leaves: 840, Deep leaves: 91
+going to depth: 8, remaining time: 7.77975222526, prev_alpha: -2, best_move: (22, 18)
+U time: 0.058, maximal selective depth: 3, Regular leaves: 2566, Deep leaves: 78
+going to depth: 9, remaining time: 7.57222244175, prev_alpha: -2, best_move: (22, 18)
+U time: 0.062, maximal selective depth: 3, Regular leaves: 3524, Deep leaves: 348
+going to depth: 10, remaining time: 7.28926620806, prev_alpha: -2, best_move: (22, 18)
+U time: 0.173, maximal selective depth: 4, Regular leaves: 8352, Deep leaves: 324
+going to depth: 11, remaining time: 6.61937122975, prev_alpha: -3, best_move: (22, 18)
+U time: 0.230, maximal selective depth: 4, Regular leaves: 13638, Deep leaves: 1269
+going to depth: 12, remaining time: 5.54485823483, prev_alpha: -4, best_move: (5, 8)
+U time: 0.910, maximal selective depth: 5, Regular leaves: 41140, Deep leaves: 1360
+going to depth: 13, remaining time: 2.19480698126, prev_alpha: -4, best_move: (5, 8)
+U time: 0.465, maximal selective depth: 7, Regular leaves: 27937, Deep leaves: 2063
+no more time
+Player black Selective Deepening Wizard performed the move: (5, 8)
+ 0:            1:            2:            3: b  
+        4:            5:            6: b         
+ 7:Wbbb        8: b          9: bw        10: b  
+       11:           12: wb        13:           
+14: w         15: w         16:           17:    
+       18:           19:           20: bw        
+21: w         22:Bww        23: w         24: w  
+*************************************************
+Possible moves: [(12, 8, 4), (24, 20, 16), (23, 20, 17)]
+going to depth: 1, remaining time: 7.91999807559, prev_alpha: -inf, best_move: (12, 8, 4)
+going to depth: 2, remaining time: 7.91925845908, prev_alpha: 2, best_move: (24, 20, 16)
+going to depth: 3, remaining time: 7.91842807438, prev_alpha: 2, best_move: (24, 20, 16)
+going to depth: 4, remaining time: 7.91694114372, prev_alpha: 3, best_move: (12, 8, 4)
+going to depth: 5, remaining time: 7.91350510226, prev_alpha: 1, best_move: (12, 8, 4)
+going to depth: 6, remaining time: 7.90514993752, prev_alpha: 4, best_move: (12, 8, 4)
+going to depth: 7, remaining time: 7.88889505272, prev_alpha: 2, best_move: (12, 8, 4)
+going to depth: 8, remaining time: 7.85173974736, prev_alpha: 6, best_move: (23, 20, 17)
+going to depth: 9, remaining time: 7.78028753313, prev_alpha: 6, best_move: (23, 20, 17)
+going to depth: 10, remaining time: 7.67362463404, prev_alpha: 8, best_move: (23, 20, 17)
+going to depth: 11, remaining time: 7.4962731924, prev_alpha: 4, best_move: (12, 8, 4)
+going to depth: 12, remaining time: 6.33324227861, prev_alpha: 4, best_move: (12, 8, 4)
+going to depth: 13, remaining time: 4.63722466124, prev_alpha: 4, best_move: (12, 8, 4)
+no more time
+Player white simple performed the move: (12, 8, 4)
+ 0:            1:            2:            3: b  
+        4:wbb         5:            6: b         
+ 7:Wbbb        8:            9: bw        10: b  
+       11:           12:           13:           
+14: w         15: w         16:           17:    
+       18:           19:           20: bw        
+21: w         22:Bww        23: w         24: w  
+*************************************************
+Possible moves: [(9, 12), (10, 13), (9, 13), (22, 18), (22, 19)]
+going to depth: 1, remaining time: 7.91999775485, prev_alpha: -inf, best_move: (9, 12)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 6, Deep leaves: 0
+going to depth: 2, remaining time: 7.91947046537, prev_alpha: -1, best_move: (9, 12)
+U time: 0.000, maximal selective depth: 2, Regular leaves: 15, Deep leaves: 4
+going to depth: 3, remaining time: 7.91817629686, prev_alpha: -3, best_move: (22, 18)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 33, Deep leaves: 6
+going to depth: 4, remaining time: 7.91538236826, prev_alpha: -4, best_move: (9, 13)
+U time: 0.002, maximal selective depth: 1, Regular leaves: 84, Deep leaves: 1
+going to depth: 5, remaining time: 7.90849681445, prev_alpha: -4, best_move: (9, 13)
+U time: 0.003, maximal selective depth: 2, Regular leaves: 156, Deep leaves: 19
+going to depth: 6, remaining time: 7.89498389907, prev_alpha: -5, best_move: (10, 13)
+U time: 0.011, maximal selective depth: 2, Regular leaves: 458, Deep leaves: 17
+going to depth: 7, remaining time: 7.85462059534, prev_alpha: -5, best_move: (10, 13)
+U time: 0.011, maximal selective depth: 2, Regular leaves: 573, Deep leaves: 50
+going to depth: 8, remaining time: 7.80654199457, prev_alpha: -5, best_move: (9, 13)
+U time: 0.025, maximal selective depth: 3, Regular leaves: 1162, Deep leaves: 41
+going to depth: 9, remaining time: 7.71071450931, prev_alpha: -4, best_move: (9, 13)
+U time: 0.041, maximal selective depth: 3, Regular leaves: 2291, Deep leaves: 183
+going to depth: 10, remaining time: 7.52540369077, prev_alpha: -4, best_move: (9, 13)
+U time: 0.215, maximal selective depth: 3, Regular leaves: 8772, Deep leaves: 223
+going to depth: 11, remaining time: 6.77864023462, prev_alpha: -4, best_move: (9, 13)
+U time: 0.234, maximal selective depth: 3, Regular leaves: 13724, Deep leaves: 825
+going to depth: 12, remaining time: 5.70503363876, prev_alpha: -4, best_move: (9, 13)
+U time: 1.018, maximal selective depth: 3, Regular leaves: 40744, Deep leaves: 462
+going to depth: 13, remaining time: 2.26299121954, prev_alpha: -4, best_move: (9, 13)
+U time: 0.498, maximal selective depth: 3, Regular leaves: 28936, Deep leaves: 1584
+no more time
+Player black Selective Deepening Wizard performed the move: (9, 13)
+ 0:            1:            2:            3: b  
+        4:wbb         5:            6: b         
+ 7:Wbbb        8:            9:           10: b  
+       11:           12:           13: bw        
+14: w         15: w         16:           17:    
+       18:           19:           20: bw        
+21: w         22:Bww        23: w         24: w  
+*************************************************
+Possible moves: [(24, 20, 16), (23, 20, 17, 13, 9)]
+going to depth: 1, remaining time: 7.91999839632, prev_alpha: -inf, best_move: (24, 20, 16)
+going to depth: 2, remaining time: 7.91942588311, prev_alpha: 5, best_move: (23, 20, 17, 13, 9)
+going to depth: 3, remaining time: 7.91918982165, prev_alpha: 1, best_move: (24, 20, 16)
+going to depth: 4, remaining time: 7.9186763238, prev_alpha: 4, best_move: (23, 20, 17, 13, 9)
+going to depth: 5, remaining time: 7.91793895245, prev_alpha: 2, best_move: (24, 20, 16)
+going to depth: 6, remaining time: 7.91483615538, prev_alpha: 5, best_move: (23, 20, 17, 13, 9)
+going to depth: 7, remaining time: 7.90893076984, prev_alpha: 3, best_move: (23, 20, 17, 13, 9)
+going to depth: 8, remaining time: 7.89536044277, prev_alpha: 5, best_move: (23, 20, 17, 13, 9)
+going to depth: 9, remaining time: 7.87474804287, prev_alpha: 4, best_move: (23, 20, 17, 13, 9)
+going to depth: 10, remaining time: 7.81015059182, prev_alpha: 4, best_move: (23, 20, 17, 13, 9)
+going to depth: 11, remaining time: 7.68176009484, prev_alpha: 4, best_move: (23, 20, 17, 13, 9)
+going to depth: 12, remaining time: 7.38908460751, prev_alpha: 4, best_move: (23, 20, 17, 13, 9)
+going to depth: 13, remaining time: 6.95864063234, prev_alpha: 4, best_move: (23, 20, 17, 13, 9)
+going to depth: 14, remaining time: 4.8084923883, prev_alpha: 4, best_move: (24, 20, 16)
+going to depth: 15, remaining time: 0.639004423587, prev_alpha: 4, best_move: (23, 20, 17, 13, 9)
+no more time
+Player white simple performed the move: (23, 20, 17, 13, 9)
+ 0:            1:            2:            3: b  
+        4:wbb         5:            6: b         
+ 7:Wbbb        8:            9:wbb        10: b  
+       11:           12:           13: w         
+14: w         15: w         16:           17:    
+       18:           19:           20: w         
+21: w         22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(6, 9, 12, 15, 18), (10, 13, 16)]
+going to depth: 1, remaining time: 7.91999807559, prev_alpha: -inf, best_move: (6, 9, 12, 15, 18)
+U time: 0.000, maximal selective depth: 1, Regular leaves: 3, Deep leaves: 2
+going to depth: 2, remaining time: 7.91920297181, prev_alpha: -4, best_move: (6, 9, 12, 15, 18)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 6, Deep leaves: 0
+going to depth: 3, remaining time: 7.91880493882, prev_alpha: -4, best_move: (6, 9, 12, 15, 18)
+U time: 0.000, maximal selective depth: 1, Regular leaves: 15, Deep leaves: 5
+going to depth: 4, remaining time: 7.91746073554, prev_alpha: -5, best_move: (6, 9, 12, 15, 18)
+U time: 0.001, maximal selective depth: 0, Regular leaves: 32, Deep leaves: 0
+going to depth: 5, remaining time: 7.91523418837, prev_alpha: -5, best_move: (6, 9, 12, 15, 18)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 70, Deep leaves: 3
+going to depth: 6, remaining time: 7.91007323037, prev_alpha: -5, best_move: (6, 9, 12, 15, 18)
+U time: 0.002, maximal selective depth: 1, Regular leaves: 100, Deep leaves: 3
+going to depth: 7, remaining time: 7.902230922, prev_alpha: -4, best_move: (6, 9, 12, 15, 18)
+U time: 0.004, maximal selective depth: 1, Regular leaves: 197, Deep leaves: 7
+going to depth: 8, remaining time: 7.88600746929, prev_alpha: -4, best_move: (6, 9, 12, 15, 18)
+U time: 0.019, maximal selective depth: 1, Regular leaves: 803, Deep leaves: 16
+going to depth: 9, remaining time: 7.817666712, prev_alpha: -4, best_move: (6, 9, 12, 15, 18)
+U time: 0.022, maximal selective depth: 1, Regular leaves: 1286, Deep leaves: 40
+going to depth: 10, remaining time: 7.71706956629, prev_alpha: -4, best_move: (6, 9, 12, 15, 18)
+U time: 0.083, maximal selective depth: 3, Regular leaves: 3607, Deep leaves: 45
+going to depth: 11, remaining time: 7.41711915203, prev_alpha: -4, best_move: (6, 9, 12, 15, 18)
+U time: 0.113, maximal selective depth: 2, Regular leaves: 6576, Deep leaves: 176
+going to depth: 12, remaining time: 6.9077145401, prev_alpha: -4, best_move: (6, 9, 12, 15, 18)
+U time: 0.711, maximal selective depth: 3, Regular leaves: 27873, Deep leaves: 533
+going to depth: 13, remaining time: 4.49287948806, prev_alpha: -4, best_move: (6, 9, 12, 15, 18)
+U time: 0.544, maximal selective depth: 3, Regular leaves: 30784, Deep leaves: 674
+going to depth: 14, remaining time: 2.0831640191, prev_alpha: -4, best_move: (6, 9, 12, 15, 18)
+U time: 0.645, maximal selective depth: 3, Regular leaves: 22958, Deep leaves: 794
+no more time
+Player black Selective Deepening Wizard performed the move: (6, 9, 12, 15, 18)
+ 0:            1:            2:            3: b  
+        4:wbb         5:            6:           
+ 7:Wbbb        8:            9: bb        10: b  
+       11:           12:           13: w         
+14: w         15:           16:           17:    
+       18:bww        19:           20: w         
+21: w         22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(13, 9, 5), (21, 18, 15)]
+going to depth: 1, remaining time: 7.91999871706, prev_alpha: -inf, best_move: (13, 9, 5)
+going to depth: 2, remaining time: 7.91975944823, prev_alpha: 4, best_move: (21, 18, 15)
+going to depth: 3, remaining time: 7.91923119655, prev_alpha: 2, best_move: (13, 9, 5)
+going to depth: 4, remaining time: 7.91794921599, prev_alpha: 5, best_move: (13, 9, 5)
+going to depth: 5, remaining time: 7.91510781851, prev_alpha: 3, best_move: (13, 9, 5)
+going to depth: 6, remaining time: 7.90676291731, prev_alpha: 5, best_move: (13, 9, 5)
+going to depth: 7, remaining time: 7.89700549613, prev_alpha: 4, best_move: (13, 9, 5)
+going to depth: 8, remaining time: 7.8568147482, prev_alpha: 4, best_move: (13, 9, 5)
+going to depth: 9, remaining time: 7.78236782482, prev_alpha: 4, best_move: (13, 9, 5)
+going to depth: 10, remaining time: 7.56084755048, prev_alpha: 4, best_move: (13, 9, 5)
+going to depth: 11, remaining time: 7.28236557967, prev_alpha: 4, best_move: (13, 9, 5)
+going to depth: 12, remaining time: 5.49606888376, prev_alpha: 4, best_move: (13, 9, 5)
+going to depth: 13, remaining time: 3.1003929782, prev_alpha: 4, best_move: (13, 9, 5)
+no more time
+Player white simple performed the move: (13, 9, 5)
+ 0:            1:            2:            3: b  
+        4:wbb         5: wb         6:           
+ 7:Wbbb        8:            9: b         10: b  
+       11:           12:           13:           
+14: w         15:           16:           17:    
+       18:bww        19:           20: w         
+21: w         22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(3, 6), (9, 12), (10, 13), (9, 13), (22, 19)]
+going to depth: 1, remaining time: 7.91999807559, prev_alpha: -inf, best_move: (3, 6)
+U time: 0.000, maximal selective depth: 1, Regular leaves: 6, Deep leaves: 5
+going to depth: 2, remaining time: 7.91916255911, prev_alpha: -5, best_move: (3, 6)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 11, Deep leaves: 0
+going to depth: 3, remaining time: 7.91844571484, prev_alpha: -5, best_move: (3, 6)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 28, Deep leaves: 1
+going to depth: 4, remaining time: 7.91634489607, prev_alpha: -5, best_move: (3, 6)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 54, Deep leaves: 1
+going to depth: 5, remaining time: 7.91223723408, prev_alpha: -4, best_move: (10, 13)
+U time: 0.002, maximal selective depth: 1, Regular leaves: 109, Deep leaves: 5
+going to depth: 6, remaining time: 7.90305553346, prev_alpha: -4, best_move: (10, 13)
+U time: 0.006, maximal selective depth: 0, Regular leaves: 273, Deep leaves: 0
+going to depth: 7, remaining time: 7.88055560402, prev_alpha: -4, best_move: (10, 13)
+U time: 0.010, maximal selective depth: 1, Regular leaves: 553, Deep leaves: 17
+going to depth: 8, remaining time: 7.83659653246, prev_alpha: -4, best_move: (10, 13)
+U time: 0.040, maximal selective depth: 1, Regular leaves: 1707, Deep leaves: 7
+going to depth: 9, remaining time: 7.69384252904, prev_alpha: -4, best_move: (10, 13)
+U time: 0.060, maximal selective depth: 1, Regular leaves: 3284, Deep leaves: 64
+going to depth: 10, remaining time: 7.43374448655, prev_alpha: -4, best_move: (10, 13)
+U time: 0.486, maximal selective depth: 2, Regular leaves: 18457, Deep leaves: 150
+going to depth: 11, remaining time: 5.81401417395, prev_alpha: -4, best_move: (10, 13)
+U time: 0.237, maximal selective depth: 2, Regular leaves: 13071, Deep leaves: 229
+going to depth: 12, remaining time: 4.77286667146, prev_alpha: -4, best_move: (10, 13)
+U time: 1.363, maximal selective depth: 3, Regular leaves: 51024, Deep leaves: 1659
+going to depth: 13, remaining time: 0.220096349001, prev_alpha: -4, best_move: (10, 13)
+U time: 0.047, maximal selective depth: 1, Regular leaves: 2675, Deep leaves: 338
+no more time
+Player black Selective Deepening Wizard performed the move: (10, 13)
+ 0:            1:            2:            3: b  
+        4:wbb         5: wb         6:           
+ 7:Wbbb        8:            9: b         10:    
+       11:           12:           13: b         
+14: w         15:           16:           17:    
+       18:bww        19:           20: w         
+21: w         22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(21, 18, 15)]
+Player white simple performed the move: (21, 18, 15)
+ 0:            1:            2:            3: b  
+        4:wbb         5: wb         6:           
+ 7:Wbbb        8:            9: b         10:    
+       11:           12:           13: b         
+14: w         15: wb        16:           17:    
+       18: ww        19:           20: w         
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(3, 6), (9, 12), (13, 16), (13, 17), (22, 19)]
+going to depth: 1, remaining time: 7.91999871706, prev_alpha: -inf, best_move: (3, 6)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 6, Deep leaves: 0
+going to depth: 2, remaining time: 7.91899417287, prev_alpha: -5, best_move: (3, 6)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 20, Deep leaves: 1
+going to depth: 3, remaining time: 7.91719869448, prev_alpha: -4, best_move: (13, 16)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 41, Deep leaves: 1
+going to depth: 4, remaining time: 7.91388100449, prev_alpha: -4, best_move: (13, 16)
+U time: 0.004, maximal selective depth: 0, Regular leaves: 164, Deep leaves: 0
+going to depth: 5, remaining time: 7.89982412138, prev_alpha: -4, best_move: (13, 16)
+U time: 0.006, maximal selective depth: 1, Regular leaves: 327, Deep leaves: 3
+going to depth: 6, remaining time: 7.87347183556, prev_alpha: -4, best_move: (13, 16)
+U time: 0.034, maximal selective depth: 1, Regular leaves: 1322, Deep leaves: 7
+going to depth: 7, remaining time: 7.76069988377, prev_alpha: -4, best_move: (13, 16)
+U time: 0.045, maximal selective depth: 1, Regular leaves: 2510, Deep leaves: 37
+going to depth: 8, remaining time: 7.56327070862, prev_alpha: -4, best_move: (13, 16)
+U time: 0.240, maximal selective depth: 2, Regular leaves: 8802, Deep leaves: 113
+going to depth: 9, remaining time: 6.77865883729, prev_alpha: -4, best_move: (13, 16)
+U time: 0.166, maximal selective depth: 3, Regular leaves: 9455, Deep leaves: 107
+going to depth: 10, remaining time: 6.03622531297, prev_alpha: -4, best_move: (13, 16)
+U time: 0.981, maximal selective depth: 3, Regular leaves: 36163, Deep leaves: 1033
+going to depth: 11, remaining time: 2.79360223386, prev_alpha: -4, best_move: (13, 16)
+U time: 0.603, maximal selective depth: 4, Regular leaves: 35242, Deep leaves: 1620
+no more time
+Player black Selective Deepening Wizard performed the move: (13, 16)
+ 0:            1:            2:            3: b  
+        4:wbb         5: wb         6:           
+ 7:Wbbb        8:            9: b         10:    
+       11:           12:           13:           
+14: w         15: wb        16: b         17:    
+       18: ww        19:           20: w         
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(20, 16, 12, 9, 6)]
+Player white simple performed the move: (20, 16, 12, 9, 6)
+ 0:            1:            2:            3: b  
+        4:wbb         5: wb         6:wbb        
+ 7:Wbbb        8:            9:           10:    
+       11:           12:           13:           
+14: w         15: wb        16:           17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(3, 6, 9)]
+Player black Selective Deepening Wizard performed the move: (3, 6, 9)
+ 0:            1:            2:            3:    
+        4:wbb         5: wb         6: bb        
+ 7:Wbbb        8:            9: bw        10:    
+       11:           12:           13:           
+14: w         15: wb        16:           17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(4, 0), (5, 1), (15, 11), (24, 20), (4, 1), (5, 2), (14, 11), (15, 12), (7, 11)]
+going to depth: 1, remaining time: 7.91999454749, prev_alpha: -inf, best_move: (4, 0)
+going to depth: 2, remaining time: 7.91639557231, prev_alpha: 4, best_move: (4, 0)
+going to depth: 3, remaining time: 7.90986154482, prev_alpha: 4, best_move: (4, 0)
+going to depth: 4, remaining time: 7.88494423048, prev_alpha: 4, best_move: (4, 0)
+going to depth: 5, remaining time: 7.86137657193, prev_alpha: 4, best_move: (4, 0)
+going to depth: 6, remaining time: 7.78631159087, prev_alpha: 4, best_move: (4, 0)
+going to depth: 7, remaining time: 7.68246571335, prev_alpha: 4, best_move: (4, 0)
+going to depth: 8, remaining time: 7.13038850073, prev_alpha: 4, best_move: (4, 0)
+going to depth: 9, remaining time: 6.21348502421, prev_alpha: 4, best_move: (4, 0)
+going to depth: 10, remaining time: 3.35243670602, prev_alpha: 6, best_move: (5, 2)
+no more time
+Player white simple performed the move: (5, 2)
+ 0:            1:            2: Wb         3:    
+        4:wbb         5:            6: bb        
+ 7:Wbbb        8:            9: bw        10:    
+       11:           12:           13:           
+14: w         15: wb        16:           17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(9, 12), (6, 10), (9, 13), (22, 19)]
+going to depth: 1, remaining time: 7.91994900302, prev_alpha: -inf, best_move: (9, 12)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 5, Deep leaves: 0
+going to depth: 2, remaining time: 7.91920906579, prev_alpha: -4, best_move: (9, 12)
+U time: 0.001, maximal selective depth: 0, Regular leaves: 18, Deep leaves: 0
+going to depth: 3, remaining time: 7.91763810237, prev_alpha: -4, best_move: (6, 10)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 38, Deep leaves: 2
+going to depth: 4, remaining time: 7.91454909694, prev_alpha: -4, best_move: (6, 10)
+U time: 0.004, maximal selective depth: 1, Regular leaves: 151, Deep leaves: 1
+going to depth: 5, remaining time: 7.90143004498, prev_alpha: -4, best_move: (6, 10)
+U time: 0.005, maximal selective depth: 1, Regular leaves: 282, Deep leaves: 3
+going to depth: 6, remaining time: 7.87940576657, prev_alpha: -4, best_move: (6, 10)
+U time: 0.047, maximal selective depth: 1, Regular leaves: 1672, Deep leaves: 21
+going to depth: 7, remaining time: 7.72856601639, prev_alpha: -4, best_move: (6, 10)
+U time: 0.024, maximal selective depth: 1, Regular leaves: 1284, Deep leaves: 43
+going to depth: 8, remaining time: 7.62283806183, prev_alpha: -6, best_move: (6, 10)
+U time: 0.143, maximal selective depth: 2, Regular leaves: 5053, Deep leaves: 76
+going to depth: 9, remaining time: 7.16808232131, prev_alpha: -6, best_move: (6, 10)
+U time: 0.169, maximal selective depth: 2, Regular leaves: 9163, Deep leaves: 125
+going to depth: 10, remaining time: 6.43258214041, prev_alpha: -6, best_move: (6, 10)
+U time: 1.628, maximal selective depth: 3, Regular leaves: 53078, Deep leaves: 1648
+going to depth: 11, remaining time: 1.46404278357, prev_alpha: -6, best_move: (6, 10)
+U time: 0.337, maximal selective depth: 1, Regular leaves: 17874, Deep leaves: 322
+no more time
+Player black Selective Deepening Wizard performed the move: (6, 10)
+ 0:            1:            2: Wb         3:    
+        4:wbb         5:            6:           
+ 7:Wbbb        8:            9: bw        10: bb 
+       11:           12:           13:           
+14: w         15: wb        16:           17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(4, 0), (15, 11), (24, 20), (4, 1), (14, 11), (15, 12), (2, 5), (2, 6), (7, 11)]
+going to depth: 1, remaining time: 7.91999871706, prev_alpha: -inf, best_move: (4, 0)
+going to depth: 2, remaining time: 7.91927674102, prev_alpha: 4, best_move: (4, 0)
+going to depth: 3, remaining time: 7.91802587182, prev_alpha: 4, best_move: (4, 0)
+going to depth: 4, remaining time: 7.91052514696, prev_alpha: 4, best_move: (4, 0)
+going to depth: 5, remaining time: 7.89694487708, prev_alpha: 4, best_move: (4, 0)
+going to depth: 6, remaining time: 7.80100545507, prev_alpha: 4, best_move: (4, 0)
+going to depth: 7, remaining time: 7.66289666666, prev_alpha: 4, best_move: (4, 0)
+going to depth: 8, remaining time: 7.46658204804, prev_alpha: 6, best_move: (4, 0)
+going to depth: 9, remaining time: 7.06595109679, prev_alpha: 6, best_move: (4, 0)
+going to depth: 10, remaining time: 5.30391773514, prev_alpha: 6, best_move: (4, 0)
+going to depth: 11, remaining time: 2.06471690585, prev_alpha: 6, best_move: (4, 0)
+no more time
+Player white simple performed the move: (4, 0)
+ 0:Wbb         1:            2: Wb         3:    
+        4:            5:            6:           
+ 7:Wbbb        8:            9: bw        10: bb 
+       11:           12:           13:           
+14: w         15: wb        16:           17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(9, 12), (10, 13), (9, 13), (22, 19)]
+going to depth: 1, remaining time: 7.91998781204, prev_alpha: -inf, best_move: (9, 12)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 5, Deep leaves: 0
+going to depth: 2, remaining time: 7.91949901085, prev_alpha: -4, best_move: (9, 12)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 17, Deep leaves: 0
+going to depth: 3, remaining time: 7.91812465842, prev_alpha: -4, best_move: (10, 13)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 41, Deep leaves: 1
+going to depth: 4, remaining time: 7.91466327884, prev_alpha: -4, best_move: (10, 13)
+U time: 0.006, maximal selective depth: 1, Regular leaves: 246, Deep leaves: 4
+going to depth: 5, remaining time: 7.89507242212, prev_alpha: -4, best_move: (9, 13)
+U time: 0.009, maximal selective depth: 1, Regular leaves: 414, Deep leaves: 31
+going to depth: 6, remaining time: 7.8594460638, prev_alpha: -6, best_move: (9, 12)
+U time: 0.037, maximal selective depth: 2, Regular leaves: 1395, Deep leaves: 28
+going to depth: 7, remaining time: 7.73735898535, prev_alpha: -6, best_move: (9, 12)
+U time: 0.047, maximal selective depth: 2, Regular leaves: 2360, Deep leaves: 67
+going to depth: 8, remaining time: 7.54398711669, prev_alpha: -6, best_move: (9, 12)
+U time: 0.208, maximal selective depth: 2, Regular leaves: 7382, Deep leaves: 45
+going to depth: 9, remaining time: 6.88239021217, prev_alpha: -6, best_move: (9, 12)
+U time: 0.372, maximal selective depth: 2, Regular leaves: 19852, Deep leaves: 374
+going to depth: 10, remaining time: 5.28872095738, prev_alpha: -7, best_move: (9, 12)
+U time: 1.707, maximal selective depth: 2, Regular leaves: 59077, Deep leaves: 511
+no more time
+Player black Selective Deepening Wizard performed the move: (9, 12)
+ 0:Wbb         1:            2: Wb         3:    
+        4:            5:            6:           
+ 7:Wbbb        8:            9:           10: bb 
+       11:           12: bw        13:           
+14: w         15: wb        16:           17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(15, 12, 9)]
+Player white simple performed the move: (15, 12, 9)
+ 0:Wbb         1:            2: Wb         3:    
+        4:            5:            6:           
+ 7:Wbbb        8:            9:wbb        10: bb 
+       11:           12: w         13:           
+14: w         15:           16:           17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(10, 13), (22, 19)]
+going to depth: 1, remaining time: 7.91999358529, prev_alpha: -inf, best_move: (10, 13)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 3, Deep leaves: 0
+going to depth: 2, remaining time: 7.91845886501, prev_alpha: -6, best_move: (10, 13)
+U time: 0.002, maximal selective depth: 0, Regular leaves: 15, Deep leaves: 0
+going to depth: 3, remaining time: 7.91269460317, prev_alpha: -6, best_move: (10, 13)
+U time: 0.003, maximal selective depth: 0, Regular leaves: 33, Deep leaves: 0
+going to depth: 4, remaining time: 7.90041908608, prev_alpha: -6, best_move: (10, 13)
+U time: 0.011, maximal selective depth: 0, Regular leaves: 160, Deep leaves: 0
+going to depth: 5, remaining time: 7.86819380903, prev_alpha: -6, best_move: (10, 13)
+U time: 0.009, maximal selective depth: 1, Regular leaves: 410, Deep leaves: 7
+going to depth: 6, remaining time: 7.83088743717, prev_alpha: -6, best_move: (10, 13)
+U time: 0.073, maximal selective depth: 2, Regular leaves: 2375, Deep leaves: 38
+going to depth: 7, remaining time: 7.61233332649, prev_alpha: -6, best_move: (10, 13)
+U time: 0.098, maximal selective depth: 1, Regular leaves: 5235, Deep leaves: 70
+going to depth: 8, remaining time: 7.19058674104, prev_alpha: -7, best_move: (10, 13)
+U time: 0.833, maximal selective depth: 2, Regular leaves: 27239, Deep leaves: 200
+going to depth: 9, remaining time: 4.70362560908, prev_alpha: -7, best_move: (10, 13)
+U time: 0.851, maximal selective depth: 3, Regular leaves: 44142, Deep leaves: 1106
+going to depth: 10, remaining time: 1.04155690236, prev_alpha: -9, best_move: (10, 13)
+U time: 0.349, maximal selective depth: 2, Regular leaves: 11341, Deep leaves: 165
+no more time
+Player black Selective Deepening Wizard performed the move: (10, 13)
+ 0:Wbb         1:            2: Wb         3:    
+        4:            5:            6:           
+ 7:Wbbb        8:            9:wbb        10:    
+       11:           12: w         13: bb        
+14: w         15:           16:           17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(9, 5), (12, 8), (24, 20), (9, 6), (14, 11), (18, 15), (7, 4), (2, 5), (0, 4), (2, 6), (7, 11)]
+going to depth: 1, remaining time: 7.91999839632, prev_alpha: -inf, best_move: (9, 5)
+going to depth: 2, remaining time: 7.91874977228, prev_alpha: 6, best_move: (9, 5)
+going to depth: 3, remaining time: 7.91723333393, prev_alpha: 6, best_move: (9, 5)
+going to depth: 4, remaining time: 7.90704484398, prev_alpha: 6, best_move: (9, 5)
+going to depth: 5, remaining time: 7.88827474989, prev_alpha: 6, best_move: (9, 5)
+going to depth: 6, remaining time: 7.73463722228, prev_alpha: 6, best_move: (9, 5)
+going to depth: 7, remaining time: 7.46374032982, prev_alpha: 6, best_move: (9, 5)
+going to depth: 8, remaining time: 6.25096138599, prev_alpha: 7, best_move: (9, 5)
+going to depth: 9, remaining time: 4.17329972879, prev_alpha: 7, best_move: (9, 5)
+no more time
+Player white simple performed the move: (9, 5)
+ 0:Wbb         1:            2: Wb         3:    
+        4:            5:wbb         6:           
+ 7:Wbbb        8:            9:           10:    
+       11:           12: w         13: bb        
+14: w         15:           16:           17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(13, 16), (13, 17), (22, 19)]
+going to depth: 1, remaining time: 7.91999807559, prev_alpha: -inf, best_move: (13, 16)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 4, Deep leaves: 0
+going to depth: 2, remaining time: 7.91919623636, prev_alpha: -6, best_move: (13, 16)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 16, Deep leaves: 0
+going to depth: 3, remaining time: 7.91787031501, prev_alpha: -6, best_move: (13, 16)
+U time: 0.001, maximal selective depth: 1, Regular leaves: 54, Deep leaves: 1
+going to depth: 4, remaining time: 7.91343838924, prev_alpha: -6, best_move: (13, 17)
+U time: 0.009, maximal selective depth: 2, Regular leaves: 274, Deep leaves: 2
+going to depth: 5, remaining time: 7.88752775647, prev_alpha: -6, best_move: (13, 17)
+U time: 0.010, maximal selective depth: 1, Regular leaves: 529, Deep leaves: 15
+going to depth: 6, remaining time: 7.84448246089, prev_alpha: -7, best_move: (13, 17)
+U time: 0.075, maximal selective depth: 2, Regular leaves: 2557, Deep leaves: 13
+going to depth: 7, remaining time: 7.61430585099, prev_alpha: -7, best_move: (13, 17)
+U time: 0.075, maximal selective depth: 2, Regular leaves: 3888, Deep leaves: 186
+going to depth: 8, remaining time: 7.28856187248, prev_alpha: -9, best_move: (13, 16)
+U time: 0.561, maximal selective depth: 2, Regular leaves: 18556, Deep leaves: 584
+going to depth: 9, remaining time: 5.57744530174, prev_alpha: -9, best_move: (13, 16)
+U time: 0.705, maximal selective depth: 2, Regular leaves: 39517, Deep leaves: 1901
+going to depth: 10, remaining time: 2.41851435228, prev_alpha: -9, best_move: (13, 16)
+U time: 0.727, maximal selective depth: 6, Regular leaves: 27801, Deep leaves: 1255
+no more time
+Player black Selective Deepening Wizard performed the move: (13, 16)
+ 0:Wbb         1:            2: Wb         3:    
+        4:            5:wbb         6:           
+ 7:Wbbb        8:            9:           10:    
+       11:           12: w         13:           
+14: w         15:           16: bb        17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(5, 1), (12, 8), (24, 20), (12, 9), (14, 11), (18, 15), (7, 4), (0, 4), (2, 6), (7, 11)]
+going to depth: 1, remaining time: 7.91999839632, prev_alpha: -inf, best_move: (5, 1)
+going to depth: 2, remaining time: 7.91889666922, prev_alpha: 6, best_move: (5, 1)
+going to depth: 3, remaining time: 7.91754861712, prev_alpha: 6, best_move: (5, 1)
+going to depth: 4, remaining time: 7.90921333799, prev_alpha: 9, best_move: (14, 11)
+going to depth: 5, remaining time: 7.89396524251, prev_alpha: 9, best_move: (14, 11)
+going to depth: 6, remaining time: 7.80996777248, prev_alpha: 9, best_move: (14, 11)
+going to depth: 7, remaining time: 7.65916362395, prev_alpha: 9, best_move: (14, 11)
+going to depth: 8, remaining time: 6.7822651894, prev_alpha: 9, best_move: (14, 11)
+going to depth: 9, remaining time: 5.28395129693, prev_alpha: 9, best_move: (14, 11)
+no more time
+Player white simple performed the move: (14, 11)
+ 0:Wbb         1:            2: Wb         3:    
+        4:            5:wbb         6:           
+ 7:Wbbb        8:            9:           10:    
+       11: w         12: w         13:           
+14:           15:           16: bb        17:    
+       18: ww        19:           20:           
+21:           22:Bww        23:           24: w  
+*************************************************
+Possible moves: [(22, 18, 14, 11, 8)]
+Player black Selective Deepening Wizard performed the move: (22, 18, 14, 11, 8)
+ 0: Wbb          1:              2: Wb           3:     
+         4:              5: wbb          6:             
+ 7:Wbbb          8:Bwwww         9:             10:     
+        11:             12:  w          13:             
+14:             15:             16: bb          17:     
+        18:  w          19:             20:             
+21:             22:             23:             24:  w  
+********************************************************
+Possible moves: [(12, 8, 4)]
+Player white simple performed the move: (12, 8, 4)
+ 0:Wbb         1:            2: Wb         3:    
+        4: wB         5:wbb         6:           
+ 7:Wbbb        8:wwww        9:           10:    
+       11:           12:           13:           
+14:           15:           16: bb        17:    
+       18: w         19:           20:           
+21:           22:           23:           24: w  
+*************************************************
+Possible moves: [(16, 19), (16, 20)]
+going to depth: 1, remaining time: 7.91999294381, prev_alpha: -inf, best_move: (16, 19)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 3, Deep leaves: 0
+going to depth: 2, remaining time: 7.91867022983, prev_alpha: -9, best_move: (16, 19)
+U time: 0.001, maximal selective depth: 0, Regular leaves: 11, Deep leaves: 0
+going to depth: 3, remaining time: 7.91417993016, prev_alpha: -9, best_move: (16, 19)
+U time: 0.002, maximal selective depth: 0, Regular leaves: 21, Deep leaves: 0
+going to depth: 4, remaining time: 7.90621702516, prev_alpha: -9, best_move: (16, 19)
+U time: 0.006, maximal selective depth: 0, Regular leaves: 82, Deep leaves: 0
+going to depth: 5, remaining time: 7.8862852264, prev_alpha: -9, best_move: (16, 19)
+U time: 0.004, maximal selective depth: 0, Regular leaves: 146, Deep leaves: 0
+going to depth: 6, remaining time: 7.87085495306, prev_alpha: -9, best_move: (16, 19)
+U time: 0.017, maximal selective depth: 1, Regular leaves: 570, Deep leaves: 9
+going to depth: 7, remaining time: 7.81540360096, prev_alpha: -9, best_move: (16, 19)
+U time: 0.016, maximal selective depth: 0, Regular leaves: 1012, Deep leaves: 0
+going to depth: 8, remaining time: 7.74041527574, prev_alpha: -9, best_move: (16, 19)
+U time: 0.078, maximal selective depth: 1, Regular leaves: 2993, Deep leaves: 293
+going to depth: 9, remaining time: 7.46668083463, prev_alpha: -9, best_move: (16, 19)
+U time: 0.077, maximal selective depth: 0, Regular leaves: 5007, Deep leaves: 0
+going to depth: 10, remaining time: 7.09227195051, prev_alpha: -9, best_move: (16, 19)
+U time: 0.424, maximal selective depth: 2, Regular leaves: 16108, Deep leaves: 1489
+going to depth: 11, remaining time: 5.61826982339, prev_alpha: -9, best_move: (16, 19)
+U time: 0.445, maximal selective depth: 1, Regular leaves: 27840, Deep leaves: 67
+going to depth: 12, remaining time: 3.49665518861, prev_alpha: -10, best_move: (16, 19)
+U time: 1.039, maximal selective depth: 2, Regular leaves: 38830, Deep leaves: 2010
+no more time
+Player black Selective Deepening Wizard performed the move: (16, 19)
+ 0:Wbb         1:            2: Wb         3:    
+        4: wB         5:wbb         6:           
+ 7:Wbbb        8:wwww        9:           10:    
+       11:           12:           13:           
+14:           15:           16:           17:    
+       18: w         19: bb        20:           
+21:           22:           23:           24: w  
+*************************************************
+Possible moves: [(5, 1), (18, 14), (24, 20), (4, 1), (18, 15), (2, 6), (7, 11)]
+going to depth: 1, remaining time: 7.91999839632, prev_alpha: -inf, best_move: (5, 1)
+going to depth: 2, remaining time: 7.9190788471, prev_alpha: 9, best_move: (5, 1)
+going to depth: 3, remaining time: 7.91812465842, prev_alpha: 9, best_move: (5, 1)
+going to depth: 4, remaining time: 7.91334152706, prev_alpha: 9, best_move: (5, 1)
+going to depth: 5, remaining time: 7.90503703856, prev_alpha: 9, best_move: (5, 1)
+going to depth: 6, remaining time: 7.8680902114, prev_alpha: 9, best_move: (5, 1)
+going to depth: 7, remaining time: 7.808459994, prev_alpha: 9, best_move: (5, 1)
+going to depth: 8, remaining time: 7.60724806212, prev_alpha: 9, best_move: (5, 1)
+going to depth: 9, remaining time: 7.29188565644, prev_alpha: 9, best_move: (5, 1)
+going to depth: 10, remaining time: 6.02042394844, prev_alpha: 9, best_move: (5, 1)
+going to depth: 11, remaining time: 4.29628422571, prev_alpha: 9, best_move: (5, 1)
+no more time
+Player white simple performed the move: (5, 1)
+ 0:Wbb         1:Wbb         2: Wb         3:    
+        4: wB         5:            6:           
+ 7:Wbbb        8:wwww        9:           10:    
+       11:           12:           13:           
+14:           15:           16:           17:    
+       18: w         19: bb        20:           
+21:           22:           23:           24: w  
+*************************************************
+Possible moves: [(19, 22), (19, 23)]
+going to depth: 1, remaining time: 7.91999839632, prev_alpha: -inf, best_move: (19, 22)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 3, Deep leaves: 0
+going to depth: 2, remaining time: 7.9192703263, prev_alpha: -9, best_move: (19, 22)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 12, Deep leaves: 0
+going to depth: 3, remaining time: 7.91829657275, prev_alpha: -9, best_move: (19, 22)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 23, Deep leaves: 0
+going to depth: 4, remaining time: 7.9164449656, prev_alpha: -9, best_move: (19, 22)
+U time: 0.002, maximal selective depth: 1, Regular leaves: 76, Deep leaves: 2
+going to depth: 5, remaining time: 7.90964472749, prev_alpha: -9, best_move: (19, 22)
+U time: 0.002, maximal selective depth: 0, Regular leaves: 138, Deep leaves: 0
+going to depth: 6, remaining time: 7.89953994956, prev_alpha: -9, best_move: (19, 22)
+U time: 0.007, maximal selective depth: 1, Regular leaves: 332, Deep leaves: 40
+going to depth: 7, remaining time: 7.87113206869, prev_alpha: -9, best_move: (19, 22)
+U time: 0.008, maximal selective depth: 0, Regular leaves: 543, Deep leaves: 0
+going to depth: 8, remaining time: 7.83157413228, prev_alpha: -9, best_move: (19, 22)
+U time: 0.039, maximal selective depth: 2, Regular leaves: 1549, Deep leaves: 132
+going to depth: 9, remaining time: 7.6910348088, prev_alpha: -9, best_move: (19, 22)
+U time: 0.043, maximal selective depth: 1, Regular leaves: 2636, Deep leaves: 3
+going to depth: 10, remaining time: 7.48792861193, prev_alpha: -9, best_move: (19, 22)
+U time: 0.206, maximal selective depth: 2, Regular leaves: 8032, Deep leaves: 392
+going to depth: 11, remaining time: 6.7796034039, prev_alpha: -9, best_move: (19, 22)
+U time: 0.231, maximal selective depth: 1, Regular leaves: 13693, Deep leaves: 25
+going to depth: 12, remaining time: 5.71298595947, prev_alpha: -9, best_move: (19, 22)
+U time: 1.703, maximal selective depth: 3, Regular leaves: 64823, Deep leaves: 1779
+no more time
+Player black Selective Deepening Wizard performed the move: (19, 22)
+ 0:Wbb         1:Wbb         2: Wb         3:    
+        4: wB         5:            6:           
+ 7:Wbbb        8:wwww        9:           10:    
+       11:           12:           13:           
+14:           15:           16:           17:    
+       18: w         19:           20:           
+21:           22: Bb        23:           24: w  
+*************************************************
+Possible moves: [(18, 14), (24, 20), (8, 5), (18, 15), (2, 5), (1, 5), (2, 6), (7, 11)]
+going to depth: 1, remaining time: 7.91999871706, prev_alpha: -inf, best_move: (18, 14)
+going to depth: 2, remaining time: 7.91943133562, prev_alpha: 9, best_move: (18, 14)
+going to depth: 3, remaining time: 7.91842743291, prev_alpha: 9, best_move: (18, 14)
+going to depth: 4, remaining time: 7.91436114582, prev_alpha: 9, best_move: (18, 14)
+going to depth: 5, remaining time: 7.90647585887, prev_alpha: 9, best_move: (18, 14)
+going to depth: 6, remaining time: 7.88702612585, prev_alpha: 9, best_move: (18, 14)
+going to depth: 7, remaining time: 7.85418503627, prev_alpha: 9, best_move: (18, 14)
+going to depth: 8, remaining time: 7.74074627498, prev_alpha: 9, best_move: (18, 14)
+going to depth: 9, remaining time: 7.57744305659, prev_alpha: 9, best_move: (18, 14)
+going to depth: 10, remaining time: 7.0573627572, prev_alpha: 9, best_move: (18, 14)
+going to depth: 11, remaining time: 6.19627017748, prev_alpha: 9, best_move: (18, 14)
+the move: (18, 15) will guarantee victory.
+Player white simple performed the move: (18, 15)
+ 0:Wbb         1:Wbb         2: Wb         3:    
+        4: wB         5:            6:           
+ 7:Wbbb        8:wwww        9:           10:    
+       11:           12:           13:           
+14:           15: w         16:           17:    
+       18:           19:           20:           
+21:           22: Bb        23:           24: w  
+*************************************************
+Possible moves: [(22, 18), (22, 19)]
+going to depth: 1, remaining time: 7.91999454749, prev_alpha: -inf, best_move: (22, 18)
+U time: 0.000, maximal selective depth: 0, Regular leaves: 3, Deep leaves: 0
+going to depth: 2, remaining time: 7.9184992777, prev_alpha: -9, best_move: (22, 18)
+U time: 0.001, maximal selective depth: 0, Regular leaves: 12, Deep leaves: 0
+going to depth: 3, remaining time: 7.91466808988, prev_alpha: -9, best_move: (22, 18)
+U time: 0.003, maximal selective depth: 0, Regular leaves: 27, Deep leaves: 0
+going to depth: 4, remaining time: 7.90536771705, prev_alpha: -9, best_move: (22, 18)
+U time: 0.004, maximal selective depth: 1, Regular leaves: 82, Deep leaves: 2
+going to depth: 5, remaining time: 7.89315859225, prev_alpha: -9, best_move: (22, 18)
+U time: 0.004, maximal selective depth: 0, Regular leaves: 151, Deep leaves: 0
+going to depth: 6, remaining time: 7.8730507096, prev_alpha: -9, best_move: (22, 18)
+U time: 0.007, maximal selective depth: 2, Regular leaves: 352, Deep leaves: 43
+going to depth: 7, remaining time: 7.84350357556, prev_alpha: -9, best_move: (22, 18)
+U time: 0.010, maximal selective depth: 1, Regular leaves: 616, Deep leaves: 3
+going to depth: 8, remaining time: 7.7983699699, prev_alpha: -9, best_move: (22, 18)
+U time: 0.032, maximal selective depth: 2, Regular leaves: 1438, Deep leaves: 72
+going to depth: 9, remaining time: 7.67516320315, prev_alpha: -9, best_move: (22, 18)
+U time: 0.037, maximal selective depth: 1, Regular leaves: 2411, Deep leaves: 13
+going to depth: 10, remaining time: 7.49977273952, prev_alpha: -9, best_move: (22, 18)
+U time: 0.180, maximal selective depth: 2, Regular leaves: 7400, Deep leaves: 191
+going to depth: 11, remaining time: 6.86458777766, prev_alpha: -inf, best_move: (22, 18)
+U time: 0.209, maximal selective depth: 2, Regular leaves: 12608, Deep leaves: 193
+going to depth: 12, remaining time: 5.88010080081, prev_alpha: -inf, best_move: (22, 18)
+U time: 1.082, maximal selective depth: 2, Regular leaves: 41801, Deep leaves: 1014
+going to depth: 13, remaining time: 2.23948802886, prev_alpha: -inf, best_move: (22, 18)
+U time: 0.488, maximal selective depth: 3, Regular leaves: 29032, Deep leaves: 118
+no more time
+Player black Selective Deepening Wizard performed the move: (22, 18)
+ 0:Wbb         1:Wbb         2: Wb         3:    
+        4: wB         5:            6:           
+ 7:Wbbb        8:wwww        9:           10:    
+       11:           12:           13:           
+14:           15: w         16:           17:    
+       18: Bb        19:           20:           
+21:           22:           23:           24: w  
+*************************************************
+Possible moves: [(15, 11), (24, 20), (8, 5), (15, 12), (2, 5), (1, 5), (2, 6), (7, 11)]
+going to depth: 1, remaining time: 7.91999807559, prev_alpha: -inf, best_move: (15, 11)
+going to depth: 2, remaining time: 7.91907948857, prev_alpha: 9, best_move: (15, 11)
+going to depth: 3, remaining time: 7.91776960401, prev_alpha: 9, best_move: (15, 11)
+going to depth: 4, remaining time: 7.91292874023, prev_alpha: 9, best_move: (15, 11)
+going to depth: 5, remaining time: 7.90529330637, prev_alpha: 9, best_move: (15, 11)
+going to depth: 6, remaining time: 7.88215607512, prev_alpha: 9, best_move: (15, 11)
+going to depth: 7, remaining time: 7.85004048967, prev_alpha: 9, best_move: (15, 11)
+going to depth: 8, remaining time: 7.76850755268, prev_alpha: 9, best_move: (15, 11)
+going to depth: 9, remaining time: 7.64104911361, prev_alpha: 9, best_move: (15, 11)
+the move: (1, 5) will guarantee victory.
+Player white simple performed the move: (1, 5)
+ 0:Wbb         1:            2: Wb         3:    
+        4: wB         5:Wbb         6:           
+ 7:Wbbb        8:wwww        9:           10:    
+       11:           12:           13:           
+14:           15: w         16:           17:    
+       18: Bb        19:           20:           
+21:           22:           23:           24: w  
+*************************************************
+Possible moves: [(18, 15, 12)]
+Player black Selective Deepening Wizard performed the move: (18, 15, 12)
+ 0:Wbb         1:            2: Wb         3:    
+        4: wB         5:Wbb         6:           
+ 7:Wbbb        8:wwww        9:           10:    
+       11:           12:Bbw        13:           
+14:           15:           16:           17:    
+       18:           19:           20:           
+21:           22:           23:           24: w  
+*************************************************
+Possible moves: [(24, 20), (4, 1), (5, 1), (2, 6), (5, 9), (7, 11)]
+going to depth: 1, remaining time: 7.91999486823, prev_alpha: -inf, best_move: (24, 20)
+going to depth: 2, remaining time: 7.91771572041, prev_alpha: 8, best_move: (24, 20)
+going to depth: 3, remaining time: 7.91405035294, prev_alpha: 8, best_move: (24, 20)
+going to depth: 4, remaining time: 7.89832147467, prev_alpha: 8, best_move: (24, 20)
+going to depth: 5, remaining time: 7.8824659058, prev_alpha: 8, best_move: (5, 1)
+going to depth: 6, remaining time: 7.85132728127, prev_alpha: 9, best_move: (5, 9)
+going to depth: 7, remaining time: 7.82603534764, prev_alpha: 9, best_move: (5, 9)
+the move: (4, 1) will guarantee victory.
+Player white simple performed the move: (4, 1)
+ 0:Wbb         1: WB         2: Wb         3:    
+        4:            5:Wbb         6:           
+ 7:Wbbb        8:wwww        9:           10:    
+       11:           12:Bbw        13:           
+14:           15:           16:           17:    
+       18:           19:           20:           
+21:           22:           23:           24: w  
+*************************************************
+Possible moves: [(12, 8, 4)]
+Player black Selective Deepening Wizard performed the move: (12, 8, 4)
+ 0:Wbb         1: WB         2: Wb         3:    
+        4:Bbww        5:Wbb         6:           
+ 7:Wbbb        8:www         9:           10:    
+       11:           12:           13:           
+14:           15:           16:           17:    
+       18:           19:           20:           
+21:           22:           23:           24: w  
+*************************************************
+Possible moves: [(24, 20), (2, 6), (5, 9), (7, 11)]
+going to depth: 1, remaining time: 7.91999903779, prev_alpha: -inf, best_move: (24, 20)
+going to depth: 2, remaining time: 7.91930143767, prev_alpha: 7, best_move: (24, 20)
+going to depth: 3, remaining time: 7.91882739031, prev_alpha: 6, best_move: (24, 20)
+going to depth: 4, remaining time: 7.91632918002, prev_alpha: 6, best_move: (24, 20)
+going to depth: 5, remaining time: 7.91236616983, prev_alpha: 6, best_move: (24, 20)
+the move: (2, 6) will guarantee victory.
+Player white simple performed the move: (2, 6)
+ 0:Wbb         1: WB         2:            3:    
+        4:Bbww        5:Wbb         6: Wb        
+ 7:Wbbb        8:www         9:           10:    
+       11:           12:           13:           
+14:           15:           16:           17:    
+       18:           19:           20:           
+21:           22:           23:           24: w  
+*************************************************
+Possible moves: [(4, 8, 12)]
+Player black Selective Deepening Wizard performed the move: (4, 8, 12)
+ 0: Wbb          1: WB           2:              3:     
+         4:              5: Wbb          6: Wb          
+ 7:Wbbb          8: ww           9:             10:     
+        11:             12:Bbwww        13:             
+14:             15:             16:             17:     
+        18:             19:             20:             
+21:             22:             23:             24:  w  
+********************************************************
+Possible moves: [(8, 4), (24, 20), (6, 2), (5, 2), (6, 3), (7, 4), (1, 4), (6, 9), (0, 4), (5, 9), (6, 10), (7, 11)]
+going to depth: 1, remaining time: 7.91999871706, prev_alpha: -inf, best_move: (8, 4)
+going to depth: 2, remaining time: 7.91882225854, prev_alpha: 6, best_move: (8, 4)
+going to depth: 3, remaining time: 7.91725225734, prev_alpha: 6, best_move: (8, 4)
+the move: (5, 9) will guarantee victory.
+Player white simple performed the move: (5, 9)
+ 0: Wbb          1: WB           2:              3:     
+         4:              5:              6: Wb          
+ 7:Wbbb          8: ww           9: Wbb         10:     
+        11:             12:Bbwww        13:             
+14:             15:             16:             17:     
+        18:             19:             20:             
+21:             22:             23:             24:  w  
+********************************************************
+Possible moves: [(12, 8, 4)]
+Player black Selective Deepening Wizard performed the move: (12, 8, 4)
+ 0: Wbb            1:  WB            2:                3:      
+          4:Bbwwww          5:                6:  Wb           
+ 7: Wbbb           8:  w             9: Wbb           10:      
+         11:               12:               13:               
+14:               15:               16:               17:      
+         18:               19:               20:               
+21:               22:               23:               24:  w   
+***************************************************************
+Possible moves: [(24, 20), (8, 5), (6, 2), (9, 5), (6, 3), (9, 12), (1, 5), (6, 10), (7, 11), (9, 13)]
+going to depth: 1, remaining time: 7.91999871706, prev_alpha: -inf, best_move: (24, 20)
+the move: (9, 12) will guarantee victory.
+Player white simple performed the move: (9, 12)
+ 0: Wbb            1:  WB            2:                3:      
+          4:Bbwwww          5:                6:  Wb           
+ 7: Wbbb           8:  w             9:               10:      
+         11:               12: Wbb           13:               
+14:               15:               16:               17:      
+         18:               19:               20:               
+21:               22:               23:               24:  w   
+***************************************************************
+Possible moves: []
+The winner is white simple, turns elapsed: 32

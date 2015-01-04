@@ -1,0 +1,990 @@
+ 0:b     1:b     2:b     3:b
+     4:b     5:b     6:b    
+ 7:b     8:b     9:b    10:b
+    11:     12:     13:     
+14:w    15:w    16:w    17:w
+    18:w    19:w    20:w    
+21:w    22:w    23:w    24:w
+****************************
+Possible moves: [(15, 11), (16, 12), (17, 13), (14, 11), (15, 12), (16, 13)]
+going to depth: 1, remaining time: 1.97999486823, prev_alpha: -inf, best_move: (15, 11)
+going to depth: 2, remaining time: 1.97798994943, prev_alpha: 0, best_move: (15, 11)
+going to depth: 3, remaining time: 1.97509755497, prev_alpha: -1, best_move: (15, 11)
+going to depth: 4, remaining time: 1.96763146956, prev_alpha: 1, best_move: (15, 11)
+going to depth: 5, remaining time: 1.95542330696, prev_alpha: 1, best_move: (15, 11)
+going to depth: 6, remaining time: 1.94299479895, prev_alpha: 2, best_move: (15, 11)
+going to depth: 7, remaining time: 1.92718509528, prev_alpha: 0, best_move: (17, 13)
+going to depth: 8, remaining time: 1.89603684868, prev_alpha: 0, best_move: (15, 11)
+going to depth: 9, remaining time: 1.86013337473, prev_alpha: 0, best_move: (15, 11)
+going to depth: 10, remaining time: 1.76935843881, prev_alpha: 1, best_move: (15, 11)
+going to depth: 11, remaining time: 1.60258197363, prev_alpha: 0, best_move: (16, 12)
+going to depth: 12, remaining time: 1.2186985572, prev_alpha: 0, best_move: (15, 11)
+going to depth: 13, remaining time: 0.744755124715, prev_alpha: 0, best_move: (16, 12)
+no more time
+Player white simple performed the move: (16, 12)
+ 0:b     1:b     2:b     3:b
+     4:b     5:b     6:b    
+ 7:b     8:b     9:b    10:b
+    11:     12:w    13:     
+14:w    15:w    16:     17:w
+    18:w    19:w    20:w    
+21:w    22:w    23:w    24:w
+****************************
+Possible moves: [(8, 12, 16)]
+Player black Heuristic Monster performed the move: (8, 12, 16)
+ 0:b       1:b       2:b       3:b 
+      4:b       5:b       6:b      
+ 7:b       8:        9:b      10:b 
+     11:       12:       13:       
+14:w      15:w      16:bw     17:w 
+     18:w      19:w      20:w      
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(20, 16, 12), (19, 16, 13)]
+going to depth: 1, remaining time: 1.97999454749, prev_alpha: -inf, best_move: (20, 16, 12)
+going to depth: 2, remaining time: 1.97883123914, prev_alpha: 1, best_move: (20, 16, 12)
+going to depth: 3, remaining time: 1.97666434882, prev_alpha: 1, best_move: (20, 16, 12)
+going to depth: 4, remaining time: 1.96974575923, prev_alpha: 1, best_move: (20, 16, 12)
+going to depth: 5, remaining time: 1.96089505785, prev_alpha: -1, best_move: (20, 16, 12)
+going to depth: 6, remaining time: 1.94349258074, prev_alpha: -1, best_move: (20, 16, 12)
+going to depth: 7, remaining time: 1.92598426086, prev_alpha: -1, best_move: (20, 16, 12)
+going to depth: 8, remaining time: 1.89804208822, prev_alpha: 1, best_move: (19, 16, 13)
+going to depth: 9, remaining time: 1.8695537027, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 10, remaining time: 1.81321487495, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 11, remaining time: 1.71086202207, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 12, remaining time: 1.48979077769, prev_alpha: 0, best_move: (20, 16, 12)
+going to depth: 13, remaining time: 1.14816877882, prev_alpha: -1, best_move: (20, 16, 12)
+going to depth: 14, remaining time: 0.549350753985, prev_alpha: 0, best_move: (20, 16, 12)
+no more time
+Player white simple performed the move: (20, 16, 12)
+ 0:b       1:b       2:b       3:b 
+      4:b       5:b       6:b      
+ 7:b       8:        9:b      10:b 
+     11:       12:wb     13:       
+14:w      15:w      16:w      17:w 
+     18:w      19:w      20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(5, 8), (10, 13), (4, 8), (7, 11), (9, 13)]
+going to depth: 1, remaining time: 1.97999807559, prev_alpha: -inf, best_move: (5, 8)
+going to depth: 2, remaining time: 1.97954391385, prev_alpha: -10, best_move: (5, 8)
+going to depth: 3, remaining time: 1.9786124974, prev_alpha: -10, best_move: (5, 8)
+going to depth: 4, remaining time: 1.97637761111, prev_alpha: 12, best_move: (4, 8)
+going to depth: 5, remaining time: 1.97179205294, prev_alpha: 12, best_move: (4, 8)
+going to depth: 6, remaining time: 1.96375569947, prev_alpha: 12, best_move: (4, 8)
+going to depth: 7, remaining time: 1.95085089896, prev_alpha: 2, best_move: (10, 13)
+going to depth: 8, remaining time: 1.92572927598, prev_alpha: 2, best_move: (10, 13)
+going to depth: 9, remaining time: 1.8605051074, prev_alpha: -2, best_move: (9, 13)
+going to depth: 10, remaining time: 1.75046678589, prev_alpha: 0, best_move: (5, 8)
+going to depth: 11, remaining time: 1.53412831737, prev_alpha: 0, best_move: (5, 8)
+going to depth: 12, remaining time: 1.17801932882, prev_alpha: 12, best_move: (5, 8)
+going to depth: 13, remaining time: 0.564057768347, prev_alpha: -2, best_move: (5, 8)
+no more time
+Player black Heuristic Monster performed the move: (5, 8)
+ 0:b       1:b       2:b       3:b 
+      4:b       5:        6:b      
+ 7:b       8:b       9:b      10:b 
+     11:       12:wb     13:       
+14:w      15:w      16:w      17:w 
+     18:w      19:w      20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(15, 11), (17, 13), (24, 20), (14, 11), (16, 13), (23, 20)]
+going to depth: 1, remaining time: 1.97999807559, prev_alpha: -inf, best_move: (15, 11)
+going to depth: 2, remaining time: 1.97909167652, prev_alpha: 1, best_move: (15, 11)
+going to depth: 3, remaining time: 1.97805249289, prev_alpha: 1, best_move: (24, 20)
+going to depth: 4, remaining time: 1.97546864616, prev_alpha: 1, best_move: (24, 20)
+going to depth: 5, remaining time: 1.97193157296, prev_alpha: 0, best_move: (17, 13)
+going to depth: 6, remaining time: 1.96413865789, prev_alpha: 2, best_move: (17, 13)
+going to depth: 7, remaining time: 1.95041149106, prev_alpha: 0, best_move: (17, 13)
+going to depth: 8, remaining time: 1.92169730762, prev_alpha: 1, best_move: (15, 11)
+going to depth: 9, remaining time: 1.86018629612, prev_alpha: 0, best_move: (17, 13)
+going to depth: 10, remaining time: 1.70752797457, prev_alpha: 0, best_move: (15, 11)
+going to depth: 11, remaining time: 1.50074967477, prev_alpha: -1, best_move: (15, 11)
+going to depth: 12, remaining time: 1.14910308189, prev_alpha: 0, best_move: (17, 13)
+going to depth: 13, remaining time: 0.59736809424, prev_alpha: -1, best_move: (15, 11)
+no more time
+Player white simple performed the move: (15, 11)
+ 0:b       1:b       2:b       3:b 
+      4:b       5:        6:b      
+ 7:b       8:b       9:b      10:b 
+     11:w      12:wb     13:       
+14:w      15:       16:w      17:w 
+     18:w      19:w      20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(9, 12, 15), (7, 11, 15)]
+going to depth: 1, remaining time: 1.97999454749, prev_alpha: -inf, best_move: (9, 12, 15)
+going to depth: 2, remaining time: 1.97883252209, prev_alpha: 10, best_move: (9, 12, 15)
+going to depth: 3, remaining time: 1.97773817191, prev_alpha: 0, best_move: (9, 12, 15)
+going to depth: 4, remaining time: 1.97564986183, prev_alpha: 20, best_move: (9, 12, 15)
+going to depth: 5, remaining time: 1.97040294666, prev_alpha: 2, best_move: (7, 11, 15)
+going to depth: 6, remaining time: 1.96373902122, prev_alpha: 10, best_move: (9, 12, 15)
+going to depth: 7, remaining time: 1.94475948672, prev_alpha: -8, best_move: (7, 11, 15)
+going to depth: 8, remaining time: 1.92514393335, prev_alpha: 12, best_move: (7, 11, 15)
+going to depth: 9, remaining time: 1.88537431138, prev_alpha: 2, best_move: (7, 11, 15)
+going to depth: 10, remaining time: 1.87509280808, prev_alpha: 12, best_move: (9, 12, 15)
+going to depth: 11, remaining time: 1.84801790475, prev_alpha: 12, best_move: (9, 12, 15)
+going to depth: 12, remaining time: 1.81056367373, prev_alpha: 12, best_move: (9, 12, 15)
+going to depth: 13, remaining time: 1.70581332156, prev_alpha: 0, best_move: (9, 12, 15)
+going to depth: 14, remaining time: 1.09736039658, prev_alpha: 14, best_move: (7, 11, 15)
+going to depth: 15, remaining time: 0.879204639634, prev_alpha: 10, best_move: (9, 12, 15)
+going to depth: 16, remaining time: 0.533144621006, prev_alpha: 22, best_move: (9, 12, 15)
+no more time
+Player black Heuristic Monster performed the move: (9, 12, 15)
+ 0:b       1:b       2:b       3:b 
+      4:b       5:        6:b      
+ 7:b       8:b       9:       10:b 
+     11:w      12:b      13:       
+14:w      15:bw     16:w      17:w 
+     18:w      19:w      20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(11, 8, 5)]
+Player white simple performed the move: (11, 8, 5)
+ 0:b       1:b       2:b       3:b 
+      4:b       5:wb      6:b      
+ 7:b       8:        9:       10:b 
+     11:       12:b      13:       
+14:w      15:bw     16:w      17:w 
+     18:w      19:w      20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(2, 5, 8), (1, 5, 9), (12, 16, 20)]
+going to depth: 1, remaining time: 1.97999518896, prev_alpha: -inf, best_move: (2, 5, 8)
+going to depth: 2, remaining time: 1.97860095092, prev_alpha: 20, best_move: (2, 5, 8)
+going to depth: 3, remaining time: 1.97674998525, prev_alpha: 0, best_move: (2, 5, 8)
+going to depth: 4, remaining time: 1.97360902063, prev_alpha: 10, best_move: (2, 5, 8)
+going to depth: 5, remaining time: 1.96891505379, prev_alpha: -10, best_move: (2, 5, 8)
+going to depth: 6, remaining time: 1.95935135697, prev_alpha: -10, best_move: (2, 5, 8)
+going to depth: 7, remaining time: 1.94423829122, prev_alpha: -10, best_move: (2, 5, 8)
+going to depth: 8, remaining time: 1.92636593633, prev_alpha: 12, best_move: (1, 5, 9)
+going to depth: 9, remaining time: 1.89409286966, prev_alpha: 12, best_move: (12, 16, 20)
+going to depth: 10, remaining time: 1.86287534415, prev_alpha: 12, best_move: (1, 5, 9)
+going to depth: 11, remaining time: 1.79715948775, prev_alpha: 0, best_move: (2, 5, 8)
+going to depth: 12, remaining time: 1.68081325742, prev_alpha: 12, best_move: (1, 5, 9)
+going to depth: 13, remaining time: 1.48161297979, prev_alpha: 10, best_move: (1, 5, 9)
+going to depth: 14, remaining time: 1.16763486936, prev_alpha: 22, best_move: (1, 5, 9)
+going to depth: 15, remaining time: 0.543945716126, prev_alpha: -8, best_move: (2, 5, 8)
+no more time
+Player black Heuristic Monster performed the move: (2, 5, 8)
+ 0:b       1:b       2:        3:b 
+      4:b       5:b       6:b      
+ 7:b       8:bw      9:       10:b 
+     11:       12:b      13:       
+14:w      15:bw     16:w      17:w 
+     18:w      19:w      20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(19, 15, 11)]
+Player white simple performed the move: (19, 15, 11)
+ 0:b       1:b       2:        3:b 
+      4:b       5:b       6:b      
+ 7:b       8:bw      9:       10:b 
+     11:wb     12:b      13:       
+14:w      15:w      16:w      17:w 
+     18:w      19:       20:       
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(12, 16, 20)]
+Player black Heuristic Monster performed the move: (12, 16, 20)
+ 0:b       1:b       2:        3:b 
+      4:b       5:b       6:b      
+ 7:b       8:bw      9:       10:b 
+     11:wb     12:       13:       
+14:w      15:w      16:       17:w 
+     18:w      19:       20:bw     
+21:w      22:w      23:w      24:w 
+***********************************
+Possible moves: [(24, 20, 16)]
+Player white simple performed the move: (24, 20, 16)
+ 0:b       1:b       2:        3:b 
+      4:b       5:b       6:b      
+ 7:b       8:bw      9:       10:b 
+     11:wb     12:       13:       
+14:w      15:w      16:wb     17:w 
+     18:w      19:       20:w      
+21:w      22:w      23:w      24:  
+***********************************
+Possible moves: [(6, 9), (10, 13), (5, 9), (8, 12)]
+going to depth: 1, remaining time: 1.97999454749, prev_alpha: -inf, best_move: (6, 9)
+going to depth: 2, remaining time: 1.97829689348, prev_alpha: -10, best_move: (6, 9)
+going to depth: 3, remaining time: 1.97456545446, prev_alpha: -10, best_move: (6, 9)
+going to depth: 4, remaining time: 1.96551108591, prev_alpha: -10, best_move: (6, 9)
+going to depth: 5, remaining time: 1.94467801985, prev_alpha: -10, best_move: (6, 9)
+going to depth: 6, remaining time: 1.91040933572, prev_alpha: 0, best_move: (6, 9)
+going to depth: 7, remaining time: 1.86989272033, prev_alpha: 0, best_move: (6, 9)
+going to depth: 8, remaining time: 1.83660388372, prev_alpha: 10, best_move: (6, 9)
+going to depth: 9, remaining time: 1.79647279263, prev_alpha: -10, best_move: (6, 9)
+going to depth: 10, remaining time: 1.72281904862, prev_alpha: 4, best_move: (6, 9)
+going to depth: 11, remaining time: 1.55177711949, prev_alpha: -8, best_move: (8, 12)
+going to depth: 12, remaining time: 1.27302893806, prev_alpha: 0, best_move: (6, 9)
+going to depth: 13, remaining time: 0.682029166421, prev_alpha: -8, best_move: (8, 12)
+no more time
+Player black Heuristic Monster performed the move: (8, 12)
+ 0:b       1:b       2:        3:b 
+      4:b       5:b       6:b      
+ 7:b       8:        9:       10:b 
+     11:wb     12:bw     13:       
+14:w      15:w      16:wb     17:w 
+     18:w      19:       20:w      
+21:w      22:w      23:w      24:  
+***********************************
+Possible moves: [(16, 12, 8, 5, 2), (15, 12, 9)]
+going to depth: 1, remaining time: 1.9799955097, prev_alpha: -inf, best_move: (16, 12, 8, 5, 2)
+going to depth: 2, remaining time: 1.97891687557, prev_alpha: 4, best_move: (16, 12, 8, 5, 2)
+going to depth: 3, remaining time: 1.97704602429, prev_alpha: 4, best_move: (16, 12, 8, 5, 2)
+going to depth: 4, remaining time: 1.9741398382, prev_alpha: 5, best_move: (16, 12, 8, 5, 2)
+going to depth: 5, remaining time: 1.96932912357, prev_alpha: 3, best_move: (16, 12, 8, 5, 2)
+going to depth: 6, remaining time: 1.9600579377, prev_alpha: 3, best_move: (16, 12, 8, 5, 2)
+going to depth: 7, remaining time: 1.94504462075, prev_alpha: 1, best_move: (16, 12, 8, 5, 2)
+going to depth: 8, remaining time: 1.91839405074, prev_alpha: 3, best_move: (16, 12, 8, 5, 2)
+going to depth: 9, remaining time: 1.90065929146, prev_alpha: 1, best_move: (16, 12, 8, 5, 2)
+going to depth: 10, remaining time: 1.86881825576, prev_alpha: 1, best_move: (16, 12, 8, 5, 2)
+going to depth: 11, remaining time: 1.81882999469, prev_alpha: 1, best_move: (16, 12, 8, 5, 2)
+going to depth: 12, remaining time: 1.7204715841, prev_alpha: 1, best_move: (16, 12, 8, 5, 2)
+going to depth: 13, remaining time: 1.56901505918, prev_alpha: 1, best_move: (16, 12, 8, 5, 2)
+going to depth: 14, remaining time: 1.27242659643, prev_alpha: 2, best_move: (16, 12, 8, 5, 2)
+going to depth: 15, remaining time: 0.72906216884, prev_alpha: 1, best_move: (16, 12, 8, 5, 2)
+no more time
+Player white simple performed the move: (16, 12, 8, 5, 2)
+ 0: b          1: b          2:Wbbb        3: b  
+        4: b          5:            6: b         
+ 7: b          8:            9:           10: b  
+       11: wb        12: w         13:           
+14: w         15: w         16:           17: w  
+       18: w         19:           20: w         
+21: w         22: w         23: w         24:    
+*************************************************
+Possible moves: [(6, 9), (10, 13), (1, 5), (4, 8)]
+going to depth: 1, remaining time: 1.97999326455, prev_alpha: -inf, best_move: (6, 9)
+going to depth: 2, remaining time: 1.97835719179, prev_alpha: -44, best_move: (6, 9)
+going to depth: 3, remaining time: 1.97622045062, prev_alpha: -54, best_move: (6, 9)
+going to depth: 4, remaining time: 1.97211759967, prev_alpha: -34, best_move: (6, 9)
+going to depth: 5, remaining time: 1.96471341625, prev_alpha: -34, best_move: (6, 9)
+going to depth: 6, remaining time: 1.95191959028, prev_alpha: -8, best_move: (1, 5)
+going to depth: 7, remaining time: 1.94047670304, prev_alpha: -32, best_move: (1, 5)
+going to depth: 8, remaining time: 1.92355212212, prev_alpha: -4, best_move: (1, 5)
+going to depth: 9, remaining time: 1.89810399021, prev_alpha: -8, best_move: (1, 5)
+going to depth: 10, remaining time: 1.85784524631, prev_alpha: -4, best_move: (1, 5)
+going to depth: 11, remaining time: 1.77692651817, prev_alpha: -8, best_move: (1, 5)
+going to depth: 12, remaining time: 1.65223795253, prev_alpha: -8, best_move: (1, 5)
+going to depth: 13, remaining time: 1.37959305056, prev_alpha: -18, best_move: (1, 5)
+going to depth: 14, remaining time: 0.822330504017, prev_alpha: -10, best_move: (1, 5)
+no more time
+Player black Heuristic Monster performed the move: (1, 5)
+ 0: b          1:            2:Wbbb        3: b  
+        4: b          5: b          6: b         
+ 7: b          8:            9:           10: b  
+       11: wb        12: w         13:           
+14: w         15: w         16:           17: w  
+       18: w         19:           20: w         
+21: w         22: w         23: w         24:    
+*************************************************
+Possible moves: [(2, 5, 8)]
+Player white simple performed the move: (2, 5, 8)
+ 0:  b           1:              2:              3:  b  
+         4:  b           5:              6:  b          
+ 7:  b           8:Wbbbb         9:             10:  b  
+        11: wb          12:  w          13:             
+14:  w          15:  w          16:             17:  w  
+        18:  w          19:             20:  w          
+21:  w          22:  w          23:  w          24:     
+********************************************************
+Possible moves: [(6, 9), (10, 13)]
+going to depth: 1, remaining time: 1.97995637995, prev_alpha: -inf, best_move: (6, 9)
+going to depth: 2, remaining time: 1.97888351906, prev_alpha: -54, best_move: (6, 9)
+going to depth: 3, remaining time: 1.97772149365, prev_alpha: -64, best_move: (6, 9)
+going to depth: 4, remaining time: 1.97567936951, prev_alpha: -8, best_move: (6, 9)
+going to depth: 5, remaining time: 1.97095332911, prev_alpha: -32, best_move: (6, 9)
+going to depth: 6, remaining time: 1.96153428408, prev_alpha: -4, best_move: (6, 9)
+going to depth: 7, remaining time: 1.94442431792, prev_alpha: -8, best_move: (6, 9)
+going to depth: 8, remaining time: 1.92373365852, prev_alpha: -4, best_move: (6, 9)
+going to depth: 9, remaining time: 1.87794318616, prev_alpha: -8, best_move: (6, 9)
+going to depth: 10, remaining time: 1.83787784589, prev_alpha: -8, best_move: (6, 9)
+going to depth: 11, remaining time: 1.7619641982, prev_alpha: -18, best_move: (6, 9)
+going to depth: 12, remaining time: 1.60428604235, prev_alpha: -10, best_move: (6, 9)
+going to depth: 13, remaining time: 1.15002455552, prev_alpha: -22, best_move: (6, 9)
+going to depth: 14, remaining time: 0.229575345946, prev_alpha: -18, best_move: (6, 9)
+no more time
+Player black Heuristic Monster performed the move: (6, 9)
+ 0:  b           1:              2:              3:  b  
+         4:  b           5:              6:             
+ 7:  b           8:Wbbbb         9:  b          10:  b  
+        11: wb          12:  w          13:             
+14:  w          15:  w          16:             17:  w  
+        18:  w          19:             20:  w          
+21:  w          22:  w          23:  w          24:     
+********************************************************
+Possible moves: [(12, 9, 6)]
+Player white simple performed the move: (12, 9, 6)
+ 0:  b           1:              2:              3:  b  
+         4:  b           5:              6: wb          
+ 7:  b           8:Wbbbb         9:             10:  b  
+        11: wb          12:             13:             
+14:  w          15:  w          16:             17:  w  
+        18:  w          19:             20:  w          
+21:  w          22:  w          23:  w          24:     
+********************************************************
+Possible moves: [(3, 6, 9), (4, 8, 12)]
+going to depth: 1, remaining time: 1.97999454749, prev_alpha: -inf, best_move: (3, 6, 9)
+going to depth: 2, remaining time: 1.97877671408, prev_alpha: -8, best_move: (4, 8, 12)
+going to depth: 3, remaining time: 1.97561778826, prev_alpha: -32, best_move: (4, 8, 12)
+going to depth: 4, remaining time: 1.96837621783, prev_alpha: -4, best_move: (4, 8, 12)
+going to depth: 5, remaining time: 1.94666497746, prev_alpha: -8, best_move: (4, 8, 12)
+going to depth: 6, remaining time: 1.90870045596, prev_alpha: -4, best_move: (4, 8, 12)
+going to depth: 7, remaining time: 1.86893853165, prev_alpha: -8, best_move: (4, 8, 12)
+going to depth: 8, remaining time: 1.83150482771, prev_alpha: -8, best_move: (4, 8, 12)
+going to depth: 9, remaining time: 1.75513701829, prev_alpha: -18, best_move: (4, 8, 12)
+going to depth: 10, remaining time: 1.60078008052, prev_alpha: -10, best_move: (4, 8, 12)
+going to depth: 11, remaining time: 1.15009511738, prev_alpha: -22, best_move: (4, 8, 12)
+going to depth: 12, remaining time: 0.252745612977, prev_alpha: -18, best_move: (4, 8, 12)
+no more time
+Player black Heuristic Monster performed the move: (4, 8, 12)
+ 0: b          1:            2:            3: b  
+        4:            5:            6: wb        
+ 7: b          8:bbbb        9:           10: b  
+       11: wb        12: bW        13:           
+14: w         15: w         16:           17: w  
+       18: w         19:           20: w         
+21: w         22: w         23: w         24:    
+*************************************************
+Possible moves: [(11, 8, 5), (15, 12, 9)]
+going to depth: 1, remaining time: 1.97999839632, prev_alpha: -inf, best_move: (11, 8, 5)
+going to depth: 2, remaining time: 1.97936750922, prev_alpha: 3, best_move: (15, 12, 9)
+going to depth: 3, remaining time: 1.97904677353, prev_alpha: 1, best_move: (15, 12, 9)
+going to depth: 4, remaining time: 1.97775260502, prev_alpha: 1, best_move: (15, 12, 9)
+going to depth: 5, remaining time: 1.97474891527, prev_alpha: 1, best_move: (15, 12, 9)
+going to depth: 6, remaining time: 1.96431121369, prev_alpha: 1, best_move: (15, 12, 9)
+going to depth: 7, remaining time: 1.94843351406, prev_alpha: 1, best_move: (15, 12, 9)
+going to depth: 8, remaining time: 1.92102729076, prev_alpha: 2, best_move: (15, 12, 9)
+going to depth: 9, remaining time: 1.88671306215, prev_alpha: 1, best_move: (11, 8, 5)
+going to depth: 10, remaining time: 1.66504492866, prev_alpha: 2, best_move: (11, 8, 5)
+going to depth: 11, remaining time: 1.32916313644, prev_alpha: 2, best_move: (15, 12, 9)
+going to depth: 12, remaining time: 0.739436364756, prev_alpha: 3, best_move: (15, 12, 9)
+no more time
+Player white simple performed the move: (15, 12, 9)
+ 0: b          1:            2:            3: b  
+        4:            5:            6: wb        
+ 7: b          8:bbbb        9: wb        10: b  
+       11: wb        12: W         13:           
+14: w         15:           16:           17: w  
+       18: w         19:           20: w         
+21: w         22: w         23: w         24:    
+*************************************************
+Possible moves: [(7, 11, 15), (8, 12, 16, 20, 24)]
+going to depth: 1, remaining time: 1.97999871706, prev_alpha: -inf, best_move: (7, 11, 15)
+going to depth: 2, remaining time: 1.97940086573, prev_alpha: -4, best_move: (8, 12, 16, 20, 24)
+going to depth: 3, remaining time: 1.97869268132, prev_alpha: -8, best_move: (8, 12, 16, 20, 24)
+going to depth: 4, remaining time: 1.97695557682, prev_alpha: -4, best_move: (8, 12, 16, 20, 24)
+going to depth: 5, remaining time: 1.9728386135, prev_alpha: -8, best_move: (8, 12, 16, 20, 24)
+going to depth: 6, remaining time: 1.96651306421, prev_alpha: -8, best_move: (7, 11, 15)
+going to depth: 7, remaining time: 1.96350873299, prev_alpha: -18, best_move: (7, 11, 15)
+going to depth: 8, remaining time: 1.95800394633, prev_alpha: -8, best_move: (7, 11, 15)
+going to depth: 9, remaining time: 1.8515581853, prev_alpha: -18, best_move: (8, 12, 16, 20, 24)
+going to depth: 10, remaining time: 1.66857205905, prev_alpha: -18, best_move: (8, 12, 16, 20, 24)
+going to depth: 11, remaining time: 1.16654533022, prev_alpha: -28, best_move: (8, 12, 16, 20, 24)
+going to depth: 12, remaining time: 0.303729758371, prev_alpha: -28, best_move: (8, 12, 16, 20, 24)
+no more time
+Player black Heuristic Monster performed the move: (8, 12, 16, 20, 24)
+ 0:  b             1:                2:                3:  b   
+          4:                5:                6:  wb           
+ 7:  b             8:                9:  wb           10:  b   
+         11:  wb           12:               13:               
+14:  w            15:               16:               17:  w   
+         18:  w            19:               20:               
+21:  w            22:  w            23:  w            24:BbbbWw
+***************************************************************
+Possible moves: [(6, 2), (9, 5), (17, 13), (23, 19), (11, 8), (18, 15), (22, 19), (23, 20)]
+going to depth: 1, remaining time: 1.97999871706, prev_alpha: -inf, best_move: (6, 2)
+going to depth: 2, remaining time: 1.97902079394, prev_alpha: 1, best_move: (6, 2)
+going to depth: 3, remaining time: 1.97770096657, prev_alpha: 1, best_move: (11, 8)
+going to depth: 4, remaining time: 1.97403495762, prev_alpha: 1, best_move: (6, 2)
+going to depth: 5, remaining time: 1.96665515012, prev_alpha: 1, best_move: (11, 8)
+going to depth: 6, remaining time: 1.94730131707, prev_alpha: 2, best_move: (6, 2)
+going to depth: 7, remaining time: 1.91697222942, prev_alpha: 2, best_move: (6, 2)
+going to depth: 8, remaining time: 1.82767267768, prev_alpha: 2, best_move: (6, 2)
+going to depth: 9, remaining time: 1.68580743286, prev_alpha: 2, best_move: (6, 2)
+going to depth: 10, remaining time: 1.29209122236, prev_alpha: 3, best_move: (6, 2)
+going to depth: 11, remaining time: 0.659637966382, prev_alpha: 3, best_move: (6, 2)
+no more time
+Player white simple performed the move: (6, 2)
+ 0:  b             1:                2:  Wb            3:  b   
+          4:                5:                6:               
+ 7:  b             8:                9:  wb           10:  b   
+         11:  wb           12:               13:               
+14:  w            15:               16:               17:  w   
+         18:  w            19:               20:               
+21:  w            22:  w            23:  w            24:BbbbWw
+***************************************************************
+Possible moves: [(7, 11, 15)]
+Player black Heuristic Monster performed the move: (7, 11, 15)
+ 0:  b             1:                2:  Wb            3:  b   
+          4:                5:                6:               
+ 7:                8:                9:  wb           10:  b   
+         11:  b            12:               13:               
+14:  w            15:  bw           16:               17:  w   
+         18:  w            19:               20:               
+21:  w            22:  w            23:  w            24:BbbbWw
+***************************************************************
+Possible moves: [(14, 11, 8), (18, 15, 12)]
+going to depth: 1, remaining time: 1.97999454749, prev_alpha: -inf, best_move: (14, 11, 8)
+going to depth: 2, remaining time: 1.97887261405, prev_alpha: 1, best_move: (18, 15, 12)
+going to depth: 3, remaining time: 1.97678173808, prev_alpha: 0, best_move: (14, 11, 8)
+going to depth: 4, remaining time: 1.97197070272, prev_alpha: 2, best_move: (14, 11, 8)
+going to depth: 5, remaining time: 1.95939465629, prev_alpha: 2, best_move: (14, 11, 8)
+going to depth: 6, remaining time: 1.9409023193, prev_alpha: 2, best_move: (14, 11, 8)
+going to depth: 7, remaining time: 1.92165144241, prev_alpha: 2, best_move: (14, 11, 8)
+going to depth: 8, remaining time: 1.85880232161, prev_alpha: 3, best_move: (18, 15, 12)
+going to depth: 9, remaining time: 1.73699556615, prev_alpha: 3, best_move: (18, 15, 12)
+going to depth: 10, remaining time: 1.46105350128, prev_alpha: 3, best_move: (14, 11, 8)
+going to depth: 11, remaining time: 0.877956336326, prev_alpha: 3, best_move: (18, 15, 12)
+no more time
+Player white simple performed the move: (18, 15, 12)
+ 0:  b             1:                2:  Wb            3:  b   
+          4:                5:                6:               
+ 7:                8:                9:  wb           10:  b   
+         11:  b            12:  wb           13:               
+14:  w            15:  w            16:               17:  w   
+         18:               19:               20:               
+21:  w            22:  w            23:  w            24:BbbbWw
+***************************************************************
+Possible moves: [(11, 15, 19)]
+Player black Heuristic Monster performed the move: (11, 15, 19)
+ 0:  b             1:                2:  Wb            3:  b   
+          4:                5:                6:               
+ 7:                8:                9:  wb           10:  b   
+         11:               12:  wb           13:               
+14:  w            15:               16:               17:  w   
+         18:               19:  bw           20:               
+21:  w            22:  w            23:  w            24:BbbbWw
+***************************************************************
+Possible moves: [(23, 19, 15), (22, 19, 16)]
+going to depth: 1, remaining time: 1.97999326455, prev_alpha: -inf, best_move: (23, 19, 15)
+going to depth: 2, remaining time: 1.97889506555, prev_alpha: 2, best_move: (23, 19, 15)
+going to depth: 3, remaining time: 1.9768205471, prev_alpha: 2, best_move: (23, 19, 15)
+going to depth: 4, remaining time: 1.96634243282, prev_alpha: 2, best_move: (23, 19, 15)
+going to depth: 5, remaining time: 1.94790526237, prev_alpha: 2, best_move: (23, 19, 15)
+going to depth: 6, remaining time: 1.93073435644, prev_alpha: 3, best_move: (23, 19, 15)
+going to depth: 7, remaining time: 1.89322527962, prev_alpha: 3, best_move: (23, 19, 15)
+going to depth: 8, remaining time: 1.82399576372, prev_alpha: 3, best_move: (23, 19, 15)
+going to depth: 9, remaining time: 1.71381503558, prev_alpha: 3, best_move: (23, 19, 15)
+going to depth: 10, remaining time: 1.36898247244, prev_alpha: 3, best_move: (23, 19, 15)
+going to depth: 11, remaining time: 0.628618014056, prev_alpha: 3, best_move: (23, 19, 15)
+no more time
+Player white simple performed the move: (23, 19, 15)
+ 0:  b             1:                2:  Wb            3:  b   
+          4:                5:                6:               
+ 7:                8:                9:  wb           10:  b   
+         11:               12:  wb           13:               
+14:  w            15:  wb           16:               17:  w   
+         18:               19:  w            20:               
+21:  w            22:  w            23:               24:BbbbWw
+***************************************************************
+Possible moves: [(3, 6), (10, 13), (0, 4), (24, 20)]
+going to depth: 1, remaining time: 1.97994130537, prev_alpha: -inf, best_move: (3, 6)
+going to depth: 2, remaining time: 1.97817373098, prev_alpha: -18, best_move: (3, 6)
+going to depth: 3, remaining time: 1.97305350641, prev_alpha: -18, best_move: (10, 13)
+going to depth: 4, remaining time: 1.96088928461, prev_alpha: -18, best_move: (10, 13)
+going to depth: 5, remaining time: 1.93410272266, prev_alpha: -28, best_move: (10, 13)
+going to depth: 6, remaining time: 1.90412451986, prev_alpha: -28, best_move: (10, 13)
+going to depth: 7, remaining time: 1.73405313692, prev_alpha: -28, best_move: (24, 20)
+going to depth: 8, remaining time: 1.54862492912, prev_alpha: -28, best_move: (0, 4)
+going to depth: 9, remaining time: 0.961176663784, prev_alpha: -32, best_move: (24, 20)
+no more time
+Player black Heuristic Monster performed the move: (24, 20)
+ 0:  b             1:                2:  Wb            3:  b   
+          4:                5:                6:               
+ 7:                8:                9:  wb           10:  b   
+         11:               12:  wb           13:               
+14:  w            15:  wb           16:               17:  w   
+         18:               19:  w            20:BbbbWw         
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(9, 5), (12, 8), (15, 11), (17, 13), (22, 18), (9, 6), (14, 11), (19, 16), (21, 18), (2, 5), (2, 6)]
+going to depth: 1, remaining time: 1.97999390602, prev_alpha: -inf, best_move: (9, 5)
+going to depth: 2, remaining time: 1.97619126367, prev_alpha: 2, best_move: (9, 5)
+going to depth: 3, remaining time: 1.96831399511, prev_alpha: 2, best_move: (9, 5)
+going to depth: 4, remaining time: 1.94661398048, prev_alpha: 3, best_move: (17, 13)
+going to depth: 5, remaining time: 1.92634733366, prev_alpha: 3, best_move: (17, 13)
+going to depth: 6, remaining time: 1.89333882005, prev_alpha: 3, best_move: (9, 5)
+going to depth: 7, remaining time: 1.83520258949, prev_alpha: 3, best_move: (9, 5)
+going to depth: 8, remaining time: 1.59034879365, prev_alpha: 3, best_move: (9, 5)
+going to depth: 9, remaining time: 1.08328619374, prev_alpha: 3, best_move: (9, 5)
+no more time
+Player white simple performed the move: (9, 5)
+ 0:  b             1:                2:  Wb            3:  b   
+          4:                5:  wb            6:               
+ 7:                8:                9:               10:  b   
+         11:               12:  wb           13:               
+14:  w            15:  wb           16:               17:  w   
+         18:               19:  w            20:BbbbWw         
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(3, 6), (10, 13), (0, 4), (20, 16), (20, 23), (20, 24)]
+going to depth: 1, remaining time: 1.97999583044, prev_alpha: -inf, best_move: (3, 6)
+going to depth: 2, remaining time: 1.97756272949, prev_alpha: -18, best_move: (3, 6)
+going to depth: 3, remaining time: 1.9708077151, prev_alpha: -22, best_move: (3, 6)
+going to depth: 4, remaining time: 1.9535184577, prev_alpha: -22, best_move: (3, 6)
+going to depth: 5, remaining time: 1.90657750642, prev_alpha: -28, best_move: (3, 6)
+going to depth: 6, remaining time: 1.86183391536, prev_alpha: -28, best_move: (3, 6)
+going to depth: 7, remaining time: 1.80858248937, prev_alpha: -32, best_move: (10, 13)
+going to depth: 8, remaining time: 1.60585700577, prev_alpha: -28, best_move: (0, 4)
+going to depth: 9, remaining time: 1.27217834701, prev_alpha: -32, best_move: (3, 6)
+going to depth: 10, remaining time: 0.508749785107, prev_alpha: -32, best_move: (3, 6)
+no more time
+Player black Heuristic Monster performed the move: (3, 6)
+ 0:  b             1:                2:  Wb            3:      
+          4:                5:  wb            6:  b            
+ 7:                8:                9:               10:  b   
+         11:               12:  wb           13:               
+14:  w            15:  wb           16:               17:  w   
+         18:               19:  w            20:BbbbWw         
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(5, 1), (12, 8), (15, 11), (17, 13), (22, 18), (12, 9), (14, 11), (19, 16), (21, 18)]
+going to depth: 1, remaining time: 1.97999422676, prev_alpha: -inf, best_move: (5, 1)
+going to depth: 2, remaining time: 1.97679617119, prev_alpha: 2, best_move: (5, 1)
+going to depth: 3, remaining time: 1.97084620339, prev_alpha: 2, best_move: (5, 1)
+going to depth: 4, remaining time: 1.94962568862, prev_alpha: 3, best_move: (17, 13)
+going to depth: 5, remaining time: 1.93619744746, prev_alpha: 3, best_move: (17, 13)
+going to depth: 6, remaining time: 1.91431268907, prev_alpha: 4, best_move: (17, 13)
+going to depth: 7, remaining time: 1.8802431818, prev_alpha: 3, best_move: (5, 1)
+going to depth: 8, remaining time: 1.72457764241, prev_alpha: 3, best_move: (5, 1)
+going to depth: 9, remaining time: 1.49931758991, prev_alpha: 3, best_move: (5, 1)
+going to depth: 10, remaining time: 1.1024918469, prev_alpha: 4, best_move: (5, 1)
+no more time
+Player white simple performed the move: (5, 1)
+ 0:  b             1:  Wb            2:  Wb            3:      
+          4:                5:                6:  b            
+ 7:                8:                9:               10:  b   
+         11:               12:  wb           13:               
+14:  w            15:  wb           16:               17:  w   
+         18:               19:  w            20:BbbbWw         
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(6, 9), (10, 13), (0, 4), (20, 16), (20, 23), (20, 24)]
+going to depth: 1, remaining time: 1.97999486823, prev_alpha: -inf, best_move: (6, 9)
+going to depth: 2, remaining time: 1.97761148131, prev_alpha: -22, best_move: (6, 9)
+going to depth: 3, remaining time: 1.97067589274, prev_alpha: -22, best_move: (20, 23)
+going to depth: 4, remaining time: 1.95382026998, prev_alpha: -22, best_move: (20, 23)
+going to depth: 5, remaining time: 1.94012164863, prev_alpha: -32, best_move: (0, 4)
+going to depth: 6, remaining time: 1.91788728835, prev_alpha: -32, best_move: (0, 4)
+going to depth: 7, remaining time: 1.84018233183, prev_alpha: -32, best_move: (20, 23)
+going to depth: 8, remaining time: 1.66041126013, prev_alpha: -32, best_move: (20, 23)
+going to depth: 9, remaining time: 1.3006548653, prev_alpha: -42, best_move: (0, 4)
+no more time
+Player black Heuristic Monster performed the move: (0, 4)
+ 0:                1:  Wb            2:  Wb            3:      
+          4:  b             5:                6:  b            
+ 7:                8:                9:               10:  b   
+         11:               12:  wb           13:               
+14:  w            15:  wb           16:               17:  w   
+         18:               19:  w            20:BbbbWw         
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(1, 4, 7)]
+Player white simple performed the move: (1, 4, 7)
+ 0:                1:                2:  Wb            3:      
+          4:                5:                6:  b            
+ 7: Wbb            8:                9:               10:  b   
+         11:               12:  wb           13:               
+14:  w            15:  wb           16:               17:  w   
+         18:               19:  w            20:BbbbWw         
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(6, 9), (10, 13), (20, 16), (20, 23), (20, 24)]
+going to depth: 1, remaining time: 1.97999583044, prev_alpha: -inf, best_move: (6, 9)
+going to depth: 2, remaining time: 1.97777249063, prev_alpha: -32, best_move: (6, 9)
+going to depth: 3, remaining time: 1.97188346261, prev_alpha: -32, best_move: (20, 23)
+going to depth: 4, remaining time: 1.95885838621, prev_alpha: -32, best_move: (20, 23)
+going to depth: 5, remaining time: 1.92596373377, prev_alpha: -42, best_move: (20, 23)
+going to depth: 6, remaining time: 1.9009059372, prev_alpha: -42, best_move: (20, 16)
+going to depth: 7, remaining time: 1.81746526432, prev_alpha: -42, best_move: (20, 23)
+going to depth: 8, remaining time: 1.68069875478, prev_alpha: -42, best_move: (20, 23)
+going to depth: 9, remaining time: 1.39557466855, prev_alpha: -52, best_move: (20, 23)
+going to depth: 10, remaining time: 0.074538127776, prev_alpha: -42, best_move: (20, 23)
+no more time
+Player black Heuristic Monster performed the move: (20, 23)
+ 0:                1:                2:  Wb            3:      
+          4:                5:                6:  b            
+ 7: Wbb            8:                9:               10:  b   
+         11:               12:  wb           13:               
+14:  w            15:  wb           16:               17:  w   
+         18:               19:  w            20:               
+21:  w            22:  w            23:BbbbWw         24:      
+***************************************************************
+Possible moves: [(12, 8), (15, 11), (17, 13), (22, 18), (12, 9), (14, 11), (19, 16), (21, 18), (7, 4), (2, 5), (7, 11)]
+going to depth: 1, remaining time: 1.97999326455, prev_alpha: -inf, best_move: (12, 8)
+going to depth: 2, remaining time: 1.97625412787, prev_alpha: 3, best_move: (12, 8)
+going to depth: 3, remaining time: 1.97010049291, prev_alpha: 3, best_move: (12, 8)
+going to depth: 4, remaining time: 1.95506536593, prev_alpha: 4, best_move: (17, 13)
+going to depth: 5, remaining time: 1.94369336128, prev_alpha: 4, best_move: (17, 13)
+going to depth: 6, remaining time: 1.90988878169, prev_alpha: 4, best_move: (12, 8)
+going to depth: 7, remaining time: 1.85999449618, prev_alpha: 4, best_move: (14, 11)
+going to depth: 8, remaining time: 1.75572139872, prev_alpha: 5, best_move: (14, 11)
+going to depth: 9, remaining time: 1.32561515823, prev_alpha: 4, best_move: (17, 13)
+no more time
+Player white simple performed the move: (17, 13)
+ 0:                1:                2:  Wb            3:      
+          4:                5:                6:  b            
+ 7: Wbb            8:                9:               10:  b   
+         11:               12:  wb           13:  w            
+14:  w            15:  wb           16:               17:      
+         18:               19:  w            20:               
+21:  w            22:  w            23:BbbbWw         24:      
+***************************************************************
+Possible moves: [(10, 13, 16)]
+Player black Heuristic Monster performed the move: (10, 13, 16)
+ 0:                1:                2:  Wb            3:      
+          4:                5:                6:  b            
+ 7: Wbb            8:                9:               10:      
+         11:               12:  wb           13:               
+14:  w            15:  wb           16:  bw           17:      
+         18:               19:  w            20:               
+21:  w            22:  w            23:BbbbWw         24:      
+***************************************************************
+Possible moves: [(19, 16, 13), (2, 6, 10)]
+going to depth: 1, remaining time: 1.97999518896, prev_alpha: -inf, best_move: (19, 16, 13)
+going to depth: 2, remaining time: 1.9788703689, prev_alpha: 4, best_move: (19, 16, 13)
+going to depth: 3, remaining time: 1.97685454508, prev_alpha: 4, best_move: (19, 16, 13)
+going to depth: 4, remaining time: 1.96731650711, prev_alpha: 4, best_move: (19, 16, 13)
+going to depth: 5, remaining time: 1.9527294479, prev_alpha: 3, best_move: (19, 16, 13)
+going to depth: 6, remaining time: 1.91196105499, prev_alpha: 4, best_move: (19, 16, 13)
+going to depth: 7, remaining time: 1.86941835224, prev_alpha: 4, best_move: (19, 16, 13)
+going to depth: 8, remaining time: 1.69207492899, prev_alpha: 4, best_move: (19, 16, 13)
+going to depth: 9, remaining time: 1.39982313351, prev_alpha: 4, best_move: (19, 16, 13)
+no more time
+Player white simple performed the move: (19, 16, 13)
+ 0:                1:                2:  Wb            3:      
+          4:                5:                6:  b            
+ 7: Wbb            8:                9:               10:      
+         11:               12:  wb           13:  wb           
+14:  w            15:  wb           16:  w            17:      
+         18:               19:               20:               
+21:  w            22:  w            23:BbbbWw         24:      
+***************************************************************
+Possible moves: [(6, 9), (6, 10), (23, 19), (23, 20)]
+going to depth: 1, remaining time: 1.97999871706, prev_alpha: -inf, best_move: (6, 9)
+going to depth: 2, remaining time: 1.97925653467, prev_alpha: -42, best_move: (6, 9)
+going to depth: 3, remaining time: 1.97791970831, prev_alpha: -42, best_move: (6, 10)
+going to depth: 4, remaining time: 1.97539327327, prev_alpha: -32, best_move: (23, 19)
+going to depth: 5, remaining time: 1.96163884391, prev_alpha: -42, best_move: (6, 10)
+going to depth: 6, remaining time: 1.9369607984, prev_alpha: -42, best_move: (6, 10)
+going to depth: 7, remaining time: 1.84764232326, prev_alpha: -42, best_move: (6, 10)
+going to depth: 8, remaining time: 1.6976178832, prev_alpha: -42, best_move: (6, 10)
+going to depth: 9, remaining time: 1.04141447005, prev_alpha: -46, best_move: (6, 10)
+no more time
+Player black Heuristic Monster performed the move: (6, 10)
+ 0:                1:                2:  Wb            3:      
+          4:                5:                6:               
+ 7: Wbb            8:                9:               10:  b   
+         11:               12:  wb           13:  wb           
+14:  w            15:  wb           16:  w            17:      
+         18:               19:               20:               
+21:  w            22:  w            23:BbbbWw         24:      
+***************************************************************
+Possible moves: [(12, 8), (13, 9), (15, 11), (22, 18), (12, 9), (14, 11), (21, 18), (22, 19), (7, 4), (2, 5), (2, 6), (7, 11)]
+going to depth: 1, remaining time: 1.97999839632, prev_alpha: -inf, best_move: (12, 8)
+going to depth: 2, remaining time: 1.97865226863, prev_alpha: 4, best_move: (12, 8)
+going to depth: 3, remaining time: 1.97707617344, prev_alpha: 4, best_move: (12, 8)
+going to depth: 4, remaining time: 1.96676933202, prev_alpha: 4, best_move: (12, 8)
+going to depth: 5, remaining time: 1.94770672698, prev_alpha: 4, best_move: (12, 8)
+going to depth: 6, remaining time: 1.87881783239, prev_alpha: 4, best_move: (12, 8)
+going to depth: 7, remaining time: 1.76462983252, prev_alpha: 4, best_move: (12, 8)
+going to depth: 8, remaining time: 1.28517584014, prev_alpha: 4, best_move: (12, 8)
+going to depth: 9, remaining time: 0.481105575926, prev_alpha: 4, best_move: (15, 11)
+no more time
+Player white simple performed the move: (15, 11)
+ 0:                1:                2:  Wb            3:      
+          4:                5:                6:               
+ 7: Wbb            8:                9:               10:  b   
+         11:  wb           12:  wb           13:  wb           
+14:  w            15:               16:  w            17:      
+         18:               19:               20:               
+21:  w            22:  w            23:BbbbWw         24:      
+***************************************************************
+Possible moves: [(23, 19), (23, 20)]
+going to depth: 1, remaining time: 1.97999871706, prev_alpha: -inf, best_move: (23, 19)
+going to depth: 2, remaining time: 1.97933062461, prev_alpha: -42, best_move: (23, 19)
+going to depth: 3, remaining time: 1.97849286299, prev_alpha: -42, best_move: (23, 19)
+going to depth: 4, remaining time: 1.97668615884, prev_alpha: -42, best_move: (23, 19)
+going to depth: 5, remaining time: 1.96838519843, prev_alpha: -42, best_move: (23, 19)
+going to depth: 6, remaining time: 1.95472153727, prev_alpha: -42, best_move: (23, 19)
+going to depth: 7, remaining time: 1.90589530161, prev_alpha: -46, best_move: (23, 19)
+going to depth: 8, remaining time: 1.83461083214, prev_alpha: -42, best_move: (23, 19)
+going to depth: 9, remaining time: 1.57218264486, prev_alpha: -42, best_move: (23, 19)
+going to depth: 10, remaining time: 1.14736244929, prev_alpha: -42, best_move: (23, 19)
+no more time
+Player black Heuristic Monster performed the move: (23, 19)
+ 0:                1:                2:  Wb            3:      
+          4:                5:                6:               
+ 7: Wbb            8:                9:               10:  b   
+         11:  wb           12:  wb           13:  wb           
+14:  w            15:               16:  w            17:      
+         18:               19:BbbbWw         20:               
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(12, 8), (13, 9), (22, 18), (11, 8), (12, 9), (21, 18), (7, 4), (2, 5), (2, 6)]
+going to depth: 1, remaining time: 1.9799955097, prev_alpha: -inf, best_move: (12, 8)
+going to depth: 2, remaining time: 1.97676024879, prev_alpha: 4, best_move: (12, 8)
+going to depth: 3, remaining time: 1.97062682018, prev_alpha: 4, best_move: (12, 8)
+going to depth: 4, remaining time: 1.94629164111, prev_alpha: 4, best_move: (12, 8)
+going to depth: 5, remaining time: 1.92625303737, prev_alpha: 4, best_move: (12, 8)
+going to depth: 6, remaining time: 1.86325894404, prev_alpha: 4, best_move: (12, 8)
+going to depth: 7, remaining time: 1.80019011929, prev_alpha: 4, best_move: (2, 5)
+going to depth: 8, remaining time: 1.57663509772, prev_alpha: 4, best_move: (2, 5)
+going to depth: 9, remaining time: 1.21091462272, prev_alpha: 4, best_move: (2, 5)
+no more time
+Player white simple performed the move: (2, 5)
+ 0:                1:                2:                3:      
+          4:                5:  Wb            6:               
+ 7: Wbb            8:                9:               10:  b   
+         11:  wb           12:  wb           13:  wb           
+14:  w            15:               16:  w            17:      
+         18:               19:BbbbWw         20:               
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(19, 15), (19, 23)]
+going to depth: 1, remaining time: 1.9799955097, prev_alpha: -inf, best_move: (19, 15)
+going to depth: 2, remaining time: 1.97886331271, prev_alpha: -42, best_move: (19, 15)
+going to depth: 3, remaining time: 1.97424151141, prev_alpha: -42, best_move: (19, 15)
+going to depth: 4, remaining time: 1.96581289819, prev_alpha: -42, best_move: (19, 15)
+going to depth: 5, remaining time: 1.94551642295, prev_alpha: -42, best_move: (19, 15)
+going to depth: 6, remaining time: 1.92176947315, prev_alpha: -42, best_move: (19, 15)
+going to depth: 7, remaining time: 1.88006100393, prev_alpha: -42, best_move: (19, 15)
+going to depth: 8, remaining time: 1.80515061748, prev_alpha: -42, best_move: (19, 15)
+going to depth: 9, remaining time: 1.51730059862, prev_alpha: -46, best_move: (19, 15)
+going to depth: 10, remaining time: 0.918450500219, prev_alpha: -46, best_move: (19, 15)
+no more time
+Player black Heuristic Monster performed the move: (19, 15)
+ 0:                1:                2:                3:      
+          4:                5:  Wb            6:               
+ 7: Wbb            8:                9:               10:  b   
+         11:  wb           12:  wb           13:  wb           
+14:  w            15:BbbbWw         16:  w            17:      
+         18:               19:               20:               
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(12, 8), (13, 9), (22, 18), (11, 8), (12, 9), (21, 18), (22, 19), (5, 1), (5, 2), (7, 4), (5, 8), (5, 9)]
+going to depth: 1, remaining time: 1.97999518896, prev_alpha: -inf, best_move: (12, 8)
+going to depth: 2, remaining time: 1.97601678346, prev_alpha: 4, best_move: (12, 8)
+going to depth: 3, remaining time: 1.96929223897, prev_alpha: 4, best_move: (12, 8)
+going to depth: 4, remaining time: 1.94769902933, prev_alpha: 4, best_move: (12, 8)
+going to depth: 5, remaining time: 1.9343160119, prev_alpha: 4, best_move: (5, 9)
+going to depth: 6, remaining time: 1.9019672516, prev_alpha: 4, best_move: (5, 9)
+going to depth: 7, remaining time: 1.86138713054, prev_alpha: 4, best_move: (5, 9)
+going to depth: 8, remaining time: 1.69706012383, prev_alpha: 4, best_move: (5, 9)
+going to depth: 9, remaining time: 1.45758570699, prev_alpha: 4, best_move: (5, 9)
+going to depth: 10, remaining time: 0.365666065394, prev_alpha: 4, best_move: (5, 9)
+no more time
+Player white simple performed the move: (5, 9)
+ 0:                1:                2:                3:      
+          4:                5:                6:               
+ 7: Wbb            8:                9:  Wb           10:  b   
+         11:  wb           12:  wb           13:  wb           
+14:  w            15:BbbbWw         16:  w            17:      
+         18:               19:               20:               
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(15, 18), (15, 19)]
+going to depth: 1, remaining time: 1.97999390602, prev_alpha: -inf, best_move: (15, 18)
+going to depth: 2, remaining time: 1.97874720639, prev_alpha: -42, best_move: (15, 18)
+going to depth: 3, remaining time: 1.97556326319, prev_alpha: -42, best_move: (15, 19)
+going to depth: 4, remaining time: 1.96996514245, prev_alpha: -42, best_move: (15, 19)
+going to depth: 5, remaining time: 1.94705659574, prev_alpha: -42, best_move: (15, 19)
+going to depth: 6, remaining time: 1.93041426222, prev_alpha: -42, best_move: (15, 19)
+going to depth: 7, remaining time: 1.88702930754, prev_alpha: -46, best_move: (15, 19)
+going to depth: 8, remaining time: 1.83091018374, prev_alpha: -46, best_move: (15, 19)
+going to depth: 9, remaining time: 1.63447432703, prev_alpha: -46, best_move: (15, 19)
+going to depth: 10, remaining time: 1.25024740268, prev_alpha: -46, best_move: (15, 19)
+no more time
+Player black Heuristic Monster performed the move: (15, 19)
+ 0:                1:                2:                3:      
+          4:                5:                6:               
+ 7: Wbb            8:                9:  Wb           10:  b   
+         11:  wb           12:  wb           13:  wb           
+14:  w            15:               16:  w            17:      
+         18:               19:BbbbWw         20:               
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(12, 8), (22, 18), (11, 8), (21, 18), (9, 5), (7, 4), (9, 6)]
+going to depth: 1, remaining time: 1.97999454749, prev_alpha: -inf, best_move: (12, 8)
+going to depth: 2, remaining time: 1.97728882121, prev_alpha: 4, best_move: (12, 8)
+going to depth: 3, remaining time: 1.97292457066, prev_alpha: 4, best_move: (12, 8)
+going to depth: 4, remaining time: 1.95057955656, prev_alpha: 4, best_move: (12, 8)
+going to depth: 5, remaining time: 1.93477370173, prev_alpha: 4, best_move: (12, 8)
+going to depth: 6, remaining time: 1.89221271704, prev_alpha: 4, best_move: (12, 8)
+going to depth: 7, remaining time: 1.84336627503, prev_alpha: 4, best_move: (12, 8)
+going to depth: 8, remaining time: 1.66146808423, prev_alpha: 4, best_move: (12, 8)
+going to depth: 9, remaining time: 1.36473913925, prev_alpha: 4, best_move: (12, 8)
+no more time
+Player white simple performed the move: (12, 8)
+ 0:                1:                2:                3:      
+          4:                5:                6:               
+ 7: Wbb            8:  wb            9:  Wb           10:  b   
+         11:  wb           12:               13:  wb           
+14:  w            15:               16:  w            17:      
+         18:               19:BbbbWw         20:               
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(19, 15), (19, 23)]
+going to depth: 1, remaining time: 1.9799955097, prev_alpha: -inf, best_move: (19, 15)
+going to depth: 2, remaining time: 1.97885112476, prev_alpha: -42, best_move: (19, 15)
+going to depth: 3, remaining time: 1.97490896238, prev_alpha: -42, best_move: (19, 15)
+going to depth: 4, remaining time: 1.9674512161, prev_alpha: -42, best_move: (19, 15)
+going to depth: 5, remaining time: 1.94396085485, prev_alpha: -46, best_move: (19, 15)
+going to depth: 6, remaining time: 1.92833557421, prev_alpha: -42, best_move: (19, 15)
+going to depth: 7, remaining time: 1.90120197625, prev_alpha: -46, best_move: (19, 15)
+going to depth: 8, remaining time: 1.78511874918, prev_alpha: -42, best_move: (19, 23)
+going to depth: 9, remaining time: 1.4757727036, prev_alpha: -46, best_move: (19, 15)
+going to depth: 10, remaining time: 1.22393424662, prev_alpha: -46, best_move: (19, 15)
+no more time
+Player black Heuristic Monster performed the move: (19, 15)
+ 0:                1:                2:                3:      
+          4:                5:                6:               
+ 7: Wbb            8:  wb            9:  Wb           10:  b   
+         11:  wb           12:               13:  wb           
+14:  w            15:BbbbWw         16:  w            17:      
+         18:               19:               20:               
+21:  w            22:  w            23:               24:      
+***************************************************************
+Possible moves: [(8, 4), (16, 12), (22, 18), (8, 5), (21, 18), (22, 19), (9, 5), (7, 4), (9, 6), (9, 12)]
+going to depth: 1, remaining time: 1.97994579567, prev_alpha: -inf, best_move: (8, 4)
+going to depth: 2, remaining time: 1.97668295149, prev_alpha: 4, best_move: (8, 4)
+going to depth: 3, remaining time: 1.97088340873, prev_alpha: 4, best_move: (8, 4)
+going to depth: 4, remaining time: 1.94646740427, prev_alpha: 4, best_move: (8, 4)
+going to depth: 5, remaining time: 1.92826854045, prev_alpha: 4, best_move: (22, 18)
+going to depth: 6, remaining time: 1.89714916006, prev_alpha: 4, best_move: (8, 4)
+going to depth: 7, remaining time: 1.85749821029, prev_alpha: 4, best_move: (8, 4)
+going to depth: 8, remaining time: 1.70914480318, prev_alpha: 4, best_move: (8, 4)
+going to depth: 9, remaining time: 1.46649638595, prev_alpha: 4, best_move: (8, 4)
+the move: (21, 18) will guarantee victory.
+Player white simple performed the move: (21, 18)
+ 0:                1:                2:                3:      
+          4:                5:                6:               
+ 7: Wbb            8:  wb            9:  Wb           10:  b   
+         11:  wb           12:               13:  wb           
+14:  w            15:BbbbWw         16:  w            17:      
+         18:  w            19:               20:               
+21:               22:  w            23:               24:      
+***************************************************************
+Possible moves: [(15, 18, 21)]
+Player black Heuristic Monster performed the move: (15, 18, 21)
+ 0:                  1:                  2:                  3:       
+           4:                  5:                  6:                 
+ 7:  Wbb             8:  wb              9:  Wb             10:   b   
+          11:  wb             12:                 13:  wb             
+14:   w             15:                 16:   w             17:       
+          18:                 19:                 20:                 
+21:BbbbWww          22:   w             23:                 24:       
+**********************************************************************
+Possible moves: [(8, 4), (16, 12), (22, 18), (8, 5), (22, 19), (9, 5), (7, 4), (9, 6), (9, 12)]
+going to depth: 1, remaining time: 1.97999454749, prev_alpha: -inf, best_move: (8, 4)
+going to depth: 2, remaining time: 1.97688020394, prev_alpha: 3, best_move: (8, 4)
+going to depth: 3, remaining time: 1.97142128248, prev_alpha: 3, best_move: (8, 4)
+going to depth: 4, remaining time: 1.94796203259, prev_alpha: 3, best_move: (8, 4)
+going to depth: 5, remaining time: 1.93168148893, prev_alpha: 3, best_move: (8, 4)
+going to depth: 6, remaining time: 1.88188470707, prev_alpha: 3, best_move: (8, 4)
+going to depth: 7, remaining time: 1.81402248742, prev_alpha: 3, best_move: (8, 4)
+the move: (8, 4) will guarantee victory.
+Player white simple performed the move: (8, 4)
+ 0:                  1:                  2:                  3:       
+           4:  wb              5:                  6:                 
+ 7:  Wbb             8:                  9:  Wb             10:   b   
+          11:  wb             12:                 13:  wb             
+14:   w             15:                 16:   w             17:       
+          18:                 19:                 20:                 
+21:BbbbWww          22:   w             23:                 24:       
+**********************************************************************
+Possible moves: [(21, 18)]
+Player black Heuristic Monster performed the move: (21, 18)
+ 0:                  1:                  2:                  3:       
+           4:  wb              5:                  6:                 
+ 7:  Wbb             8:                  9:  Wb             10:   b   
+          11:  wb             12:                 13:  wb             
+14:   w             15:                 16:   w             17:       
+          18:BbbbWww          19:                 20:                 
+21:                 22:   w             23:                 24:       
+**********************************************************************
+Possible moves: [(4, 0), (16, 12), (4, 1), (11, 8), (22, 19), (9, 5), (9, 6), (9, 12)]
+going to depth: 1, remaining time: 1.9799955097, prev_alpha: -inf, best_move: (4, 0)
+going to depth: 2, remaining time: 1.97714994265, prev_alpha: 3, best_move: (4, 0)
+going to depth: 3, remaining time: 1.97244058051, prev_alpha: 3, best_move: (4, 0)
+going to depth: 4, remaining time: 1.95090863138, prev_alpha: 3, best_move: (4, 0)
+going to depth: 5, remaining time: 1.92748466242, prev_alpha: 3, best_move: (4, 0)
+the move: (9, 12) will guarantee victory.
+Player white simple performed the move: (9, 12)
+ 0:                  1:                  2:                  3:       
+           4:  wb              5:                  6:                 
+ 7:  Wbb             8:                  9:                 10:   b   
+          11:  wb             12:  Wb             13:  wb             
+14:   w             15:                 16:   w             17:       
+          18:BbbbWww          19:                 20:                 
+21:                 22:   w             23:                 24:       
+**********************************************************************
+Possible moves: [(18, 15), (18, 21)]
+going to depth: 1, remaining time: 1.97999518896, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 2, remaining time: 1.97890244247, prev_alpha: -32, best_move: (18, 15)
+going to depth: 3, remaining time: 1.9752245663, prev_alpha: -36, best_move: (18, 21)
+going to depth: 4, remaining time: 1.97349932902, prev_alpha: -6, best_move: (18, 15)
+going to depth: 5, remaining time: 1.94840561005, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 6, remaining time: 1.93076675074, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 7, remaining time: 1.86871529961, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 8, remaining time: 1.82056998581, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 9, remaining time: 1.81091359637, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 10, remaining time: 1.79730574322, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 11, remaining time: 1.77044990237, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 12, remaining time: 1.73566675818, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 13, remaining time: 1.57067133829, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 14, remaining time: 1.43452513157, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 15, remaining time: 1.39429653682, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 16, remaining time: 1.33263959059, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 17, remaining time: 0.884630204578, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 18, remaining time: 0.468258507835, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 19, remaining time: 0.332985985133, prev_alpha: -inf, best_move: (18, 15)
+going to depth: 20, remaining time: 0.105629283425, prev_alpha: -inf, best_move: (18, 15)
+no more time
+Player black Heuristic Monster performed the move: (18, 15)
+ 0:                  1:                  2:                  3:       
+           4:  wb              5:                  6:                 
+ 7:  Wbb             8:                  9:                 10:   b   
+          11:  wb             12:  Wb             13:  wb             
+14:   w             15:BbbbWww          16:   w             17:       
+          18:                 19:                 20:                 
+21:                 22:   w             23:                 24:       
+**********************************************************************
+Possible moves: [(12, 15, 18)]
+Player white simple performed the move: (12, 15, 18)
+ 0:                1:                2:                3:      
+          4:  wb            5:                6:               
+ 7: Wbb            8:                9:               10:  b   
+         11:  wb           12:               13:  wb           
+14:  w            15:bbbWww         16:  w            17:      
+         18: WbB           19:               20:               
+21:               22:  w            23:               24:      
+***************************************************************
+Possible moves: [(15, 18, 21)]
+Player black Heuristic Monster performed the move: (15, 18, 21)
+ 0:                  1:                  2:                  3:       
+           4:  wb              5:                  6:                 
+ 7:  Wbb             8:                  9:                 10:   b   
+          11:  wb             12:                 13:  wb             
+14:   w             15:                 16:   w             17:       
+          18:  bB             19:                 20:                 
+21:BbbWwwW          22:   w             23:                 24:       
+**********************************************************************
+Possible moves: [(4, 0), (13, 9), (16, 12), (4, 1), (11, 8), (22, 19)]
+going to depth: 1, remaining time: 1.97999422676, prev_alpha: -inf, best_move: (4, 0)
+the move: (4, 0) will guarantee victory.
+Player white simple performed the move: (4, 0)
+ 0:  Wb              1:                  2:                  3:       
+           4:                  5:                  6:                 
+ 7:  Wbb             8:                  9:                 10:   b   
+          11:  wb             12:                 13:  wb             
+14:   w             15:                 16:   w             17:       
+          18:  bB             19:                 20:                 
+21:BbbWwwW          22:   w             23:                 24:       
+**********************************************************************
+Possible moves: []
+The winner is white simple, turns elapsed: 26
